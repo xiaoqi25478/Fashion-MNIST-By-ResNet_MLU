@@ -1,0 +1,1164 @@
+2024-07-30 09:37:18.860571: I   55315 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,2]<stderr>:2024-07-30 09:37:21.821462: I   57369 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,2]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,0]<stderr>:2024-07-30 09:37:21.892134: I   57357 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,0]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,1]<stderr>:2024-07-30 09:37:21.913075: I   57360 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,1]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,3]<stderr>:2024-07-30 09:37:21.913076: I   57370 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,3]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,4]<stderr>:2024-07-30 09:37:21.913075: I   57371 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,4]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,7]<stderr>:2024-07-30 09:37:21.917238: I   57382 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,7]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,6]<stderr>:2024-07-30 09:37:21.917900: I   57379 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,6]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,5]<stderr>:2024-07-30 09:37:21.982963: I   57372 tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+[1,5]<stderr>:To enable the following instructions: AVX512F AVX512_VNNI, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1,3]<stderr>:2024-07-30 09:37:24.510905: I   57370 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,3]<stderr>:2024-07-30 09:37:24.510930: I   57370 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,3]<stderr>:2024-07-30 09:37:24.510936: I   57370 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,3]<stderr>:2024-07-30 09:37:24.510942: I   57370 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,7]<stderr>:2024-07-30 09:37:24.510904: I   57382 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,7]<stderr>:2024-07-30 09:37:24.510930: I   57382 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,7]<stderr>:2024-07-30 09:37:24.510936: I   57382 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,7]<stderr>:2024-07-30 09:37:24.510942: I   57382 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,3]<stderr>:2024-07-30 09:37:24.510988: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,3]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.510975: I   57371 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,4]<stderr>:2024-07-30 09:37:24.510989: I   57371 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,7]<stderr>:2024-07-30 09:37:24.510991: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,7]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.510994: I   57371 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,4]<stderr>:2024-07-30 09:37:24.511004: I   57371 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,4]<stderr>:2024-07-30 09:37:24.511034: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,4]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,3]<stderr>:2024-07-30 09:37:24.511115: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,3]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.511125: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,7]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.511143: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,4]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,3]<stderr>:2024-07-30 09:37:24.511240: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,3]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.511250: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,7]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.511262: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,4]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511317: I   57379 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,6]<stderr>:2024-07-30 09:37:24.511334: I   57379 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,6]<stderr>:2024-07-30 09:37:24.511339: I   57379 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,6]<stderr>:2024-07-30 09:37:24.511344: I   57379 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,3]<stderr>:2024-07-30 09:37:24.511354: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,3]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.511366: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,7]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.511376: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,4]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511378: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,6]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,3]<stderr>:2024-07-30 09:37:24.511486: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,3]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.511495: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,7]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511490: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,6]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.511518: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,4]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.511579: I   57369 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,2]<stderr>:2024-07-30 09:37:24.511606: I   57369 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,2]<stderr>:2024-07-30 09:37:24.511612: I   57369 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,2]<stderr>:2024-07-30 09:37:24.511616: I   57369 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,3]<stderr>:2024-07-30 09:37:24.511621: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,3]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.511632: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,7]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511617: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,6]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.511678: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,4]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.511671: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,2]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511759: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,6]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.511785: I   57372 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,7]<stderr>:2024-07-30 09:37:24.511791: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,7]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.511795: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,2]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.511805: I   57372 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,5]<stderr>:2024-07-30 09:37:24.511811: I   57372 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,5]<stderr>:2024-07-30 09:37:24.511816: I   57372 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,4]<stderr>:2024-07-30 09:37:24.511816: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,4]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.511837: I   57357 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,0]<stderr>:2024-07-30 09:37:24.511855: I   57357 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,0]<stderr>:2024-07-30 09:37:24.511860: I   57357 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,0]<stderr>:2024-07-30 09:37:24.511865: I   57357 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,1]<stderr>:2024-07-30 09:37:24.511859: I   57360 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:992] Cambricon TensorFlow version: 1.25.0
+[1,1]<stderr>:2024-07-30 09:37:24.511875: I   57360 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:994] Compiled at 2024-07-08 08:51:33.052644 with Toolkit: 3.12.1-1, CNNL: 1.26.1-1
+[1,1]<stderr>:2024-07-30 09:37:24.511880: I   57360 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:998] Current library versions: CNDrv: 2.12.1, CNRT: 6.12.0, CNNL: 1.26.1
+[1,3]<stderr>:2024-07-30 09:37:24.511869: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,3]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511886: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,6]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.511884: I   57360 tensorflow/compiler/xla/stream_executor/bang/mlu_executor.cc:1003] Current driver versions: 5.10.31
+[1,5]<stderr>:2024-07-30 09:37:24.511897: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,5]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.511903: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,0]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.511926: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 0 with properties: 
+[1,1]<stderr>:pciBusID: 0000:49:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.511940: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,7]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,7]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.511958: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,2]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.511981: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,4]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,4]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.511996: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,6]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,3]<stderr>:2024-07-30 09:37:24.511996: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,3]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,3]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.512038: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,5]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.512041: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,0]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.512052: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 1 with properties: 
+[1,1]<stderr>:pciBusID: 0000:4c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.512106: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,2]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.512149: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,6]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.512225: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,0]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.512243: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,5]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.512265: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 2 with properties: 
+[1,1]<stderr>:pciBusID: 0000:52:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.512274: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,2]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,6]<stderr>:2024-07-30 09:37:24.512292: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,6]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,6]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.512392: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,0]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.512419: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,5]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.512471: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,2]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.512465: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 3 with properties: 
+[1,1]<stderr>:pciBusID: 0000:55:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.512536: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,0]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.512566: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,5]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.512640: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 4 with properties: 
+[1,1]<stderr>:pciBusID: 0000:5d:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.512649: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,2]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.512702: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,0]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.512712: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,5]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,2]<stderr>:2024-07-30 09:37:24.512798: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,2]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,2]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.512802: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 5 with properties: 
+[1,1]<stderr>:pciBusID: 0000:60:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.512856: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,0]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.512889: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,5]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,1]<stderr>:2024-07-30 09:37:24.512950: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 6 with properties: 
+[1,1]<stderr>:pciBusID: 0000:69:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,0]<stderr>:2024-07-30 09:37:24.513013: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,0]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,0]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,5]<stderr>:2024-07-30 09:37:24.513045: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,5]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,5]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,7]<stderr>:2024-07-30 09:37:24.513054: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,1]<stderr>:2024-07-30 09:37:24.513096: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1548] Found device 7 with properties: 
+[1,1]<stderr>:pciBusID: 0000:6c:00.0 name: MLU370-X8[mtp_372.41] computeCapability: 3.0
+[1,1]<stderr>:coreClock: 1GHz coreCount: 16 deviceMemorySize: 22.83GiB deviceMemoryBandwidth: 286.10GiB/s
+[1,4]<stderr>:2024-07-30 09:37:24.513256: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,3]<stderr>:2024-07-30 09:37:24.513309: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,6]<stderr>:2024-07-30 09:37:24.513447: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,2]<stderr>:2024-07-30 09:37:24.513839: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,0]<stderr>:2024-07-30 09:37:24.514037: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,5]<stderr>:2024-07-30 09:37:24.514047: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,1]<stderr>:2024-07-30 09:37:24.514058: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0, 1, 2, 3, 4, 5, 6, 7
+[1,5]<stderr>:2024-07-30 09:37:24.758850: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 5
+[1,2]<stderr>:2024-07-30 09:37:24.768667: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 2
+[1,7]<stderr>:2024-07-30 09:37:24.782254: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 7
+[1,5]<stderr>:2024-07-30 09:37:24.797205: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :5 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,5]<stderr>:2024-07-30 09:37:24.797329: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :5 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,5]<stderr>:2024-07-30 09:37:24.797725: I   57372 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 5, name: MLU370-X8[mtp_372.41], pci bus id: 0000:60:00.0, compute capability: 3.0
+[1,6]<stderr>:2024-07-30 09:37:24.798813: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 6
+[1,1]<stderr>:2024-07-30 09:37:24.798981: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 1
+[1,2]<stderr>:2024-07-30 09:37:24.801764: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :2 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,2]<stderr>:2024-07-30 09:37:24.801876: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :2 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,2]<stderr>:2024-07-30 09:37:24.802226: I   57369 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 2, name: MLU370-X8[mtp_372.41], pci bus id: 0000:52:00.0, compute capability: 3.0
+[1,4]<stderr>:2024-07-30 09:37:24.803633: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 4
+[1,3]<stderr>:2024-07-30 09:37:24.804916: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 3
+[1,7]<stderr>:2024-07-30 09:37:24.815912: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :7 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,7]<stderr>:2024-07-30 09:37:24.816029: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :7 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,7]<stderr>:2024-07-30 09:37:24.816416: I   57382 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 7, name: MLU370-X8[mtp_372.41], pci bus id: 0000:6c:00.0, compute capability: 3.0
+[1,0]<stderr>:2024-07-30 09:37:24.827781: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1621] Adding visible mlu devices: 0
+[1,1]<stderr>:2024-07-30 09:37:24.835830: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :1 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,1]<stderr>:2024-07-30 09:37:24.835947: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :1 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,1]<stderr>:2024-07-30 09:37:24.836318: I   57360 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 1, name: MLU370-X8[mtp_372.41], pci bus id: 0000:4c:00.0, compute capability: 3.0
+[1,4]<stderr>:2024-07-30 09:37:24.840256: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :4 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,4]<stderr>:2024-07-30 09:37:24.840370: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :4 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,4]<stderr>:2024-07-30 09:37:24.840737: I   57371 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 4, name: MLU370-X8[mtp_372.41], pci bus id: 0000:5d:00.0, compute capability: 3.0
+[1,6]<stderr>:2024-07-30 09:37:24.843677: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :6 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,6]<stderr>:2024-07-30 09:37:24.843822: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :6 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,6]<stderr>:2024-07-30 09:37:24.844228: I   57379 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 6, name: MLU370-X8[mtp_372.41], pci bus id: 0000:69:00.0, compute capability: 3.0
+[1,3]<stderr>:2024-07-30 09:37:24.847683: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :3 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,3]<stderr>:2024-07-30 09:37:24.847804: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :3 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,3]<stderr>:2024-07-30 09:37:24.848178: I   57370 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 3, name: MLU370-X8[mtp_372.41], pci bus id: 0000:55:00.0, compute capability: 3.0
+[1,0]<stderr>:2024-07-30 09:37:24.867033: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1074] MLU id :0 Before module load available memory = 24509415424 bytes. After module load available memory = 24475860992 bytes. Module load consumed memory = 33554432 bytes. total_memory = 24509415424
+[1,0]<stderr>:2024-07-30 09:37:24.867155: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:871] MLU id :0 available_memory = 24475860992 total_memory = 24509415424 allocated_memory = 23938990080 per_process_mlu_memory_fraction = 0
+[1,0]<stderr>:2024-07-30 09:37:24.867555: I   57357 tensorflow/core/common_runtime/mlu/mlu_device.cc:1278] Created device /job:localhost/replica:0/task:0/device:MLU:0 with 22830 MB memory:  -> device: 0, name: MLU370-X8[mtp_372.41], pci bus id: 0000:49:00.0, compute capability: 3.0
+[1,2]<stdout>:tfds.core.DatasetInfo(
+[1,2]<stdout>:    name='fashion_mnist',
+[1,2]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,2]<stdout>:    description="""
+[1,2]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,2]<stdout>:    """,
+[1,2]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,2]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,2]<stdout>:    file_format=tfrecord,
+[1,2]<stdout>:    download_size=29.45 MiB,
+[1,2]<stdout>:    dataset_size=36.42 MiB,
+[1,2]<stdout>:    features=FeaturesDict({
+[1,2]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,2]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,2]<stdout>:    }),
+[1,2]<stdout>:    supervised_keys=('image', 'label'),
+[1,2]<stdout>:    disable_shuffling=False,
+[1,2]<stdout>:    splits={
+[1,2]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,2]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,2]<stdout>:    },
+[1,2]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,2]<stdout>:      author    = {Han Xiao and
+[1,2]<stdout>:                   Kashif Rasul and
+[1,2]<stdout>:                   Roland Vollgraf},
+[1,2]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,2]<stdout>:                   Algorithms},
+[1,2]<stdout>:      journal   = {CoRR},
+[1,2]<stdout>:      volume    = {abs/1708.07747},
+[1,2]<stdout>:      year      = {2017},
+[1,2]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,2]<stdout>:      archivePrefix = {arXiv},
+[1,2]<stdout>:      eprint    = {1708.07747},
+[1,2]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,2]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,2]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,2]<stdout>:    }""",
+[1,2]<stdout>:)
+[1,5]<stdout>:tfds.core.DatasetInfo(
+[1,5]<stdout>:    name='fashion_mnist',
+[1,5]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,5]<stdout>:    description="""
+[1,5]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,5]<stdout>:    """,
+[1,5]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,5]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,5]<stdout>:    file_format=tfrecord,
+[1,5]<stdout>:    download_size=29.45 MiB,
+[1,5]<stdout>:    dataset_size=36.42 MiB,
+[1,5]<stdout>:    features=FeaturesDict({
+[1,5]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,5]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,5]<stdout>:    }),
+[1,5]<stdout>:    supervised_keys=('image', 'label'),
+[1,5]<stdout>:    disable_shuffling=False,
+[1,5]<stdout>:    splits={
+[1,5]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,5]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,5]<stdout>:    },
+[1,5]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,5]<stdout>:      author    = {Han Xiao and
+[1,5]<stdout>:                   Kashif Rasul and
+[1,5]<stdout>:                   Roland Vollgraf},
+[1,5]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,5]<stdout>:                   Algorithms},
+[1,5]<stdout>:      journal   = {CoRR},
+[1,5]<stdout>:      volume    = {abs/1708.07747},
+[1,5]<stdout>:      year      = {2017},
+[1,5]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,5]<stdout>:      archivePrefix = {arXiv},
+[1,5]<stdout>:      eprint    = {1708.07747},
+[1,5]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,5]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,5]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,5]<stdout>:    }""",
+[1,5]<stdout>:)
+[1,7]<stdout>:tfds.core.DatasetInfo(
+[1,7]<stdout>:    name='fashion_mnist',
+[1,7]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,7]<stdout>:    description="""
+[1,7]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,7]<stdout>:    """,
+[1,7]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,7]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,7]<stdout>:    file_format=tfrecord,
+[1,7]<stdout>:    download_size=29.45 MiB,
+[1,7]<stdout>:    dataset_size=36.42 MiB,
+[1,7]<stdout>:    features=FeaturesDict({
+[1,7]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,7]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,7]<stdout>:    }),
+[1,7]<stdout>:    supervised_keys=('image', 'label'),
+[1,7]<stdout>:    disable_shuffling=False,
+[1,7]<stdout>:    splits={
+[1,7]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,7]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,7]<stdout>:    },
+[1,7]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,7]<stdout>:      author    = {Han Xiao and
+[1,7]<stdout>:                   Kashif Rasul and
+[1,7]<stdout>:                   Roland Vollgraf},
+[1,7]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,7]<stdout>:                   Algorithms},
+[1,7]<stdout>:      journal   = {CoRR},
+[1,7]<stdout>:      volume    = {abs/1708.07747},
+[1,7]<stdout>:      year      = {2017},
+[1,7]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,7]<stdout>:      archivePrefix = {arXiv},
+[1,7]<stdout>:      eprint    = {1708.07747},
+[1,7]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,7]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,7]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,7]<stdout>:    }""",
+[1,7]<stdout>:)
+[1,1]<stdout>:tfds.core.DatasetInfo(
+[1,1]<stdout>:    name='fashion_mnist',
+[1,1]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,1]<stdout>:    description="""
+[1,1]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,1]<stdout>:    """,
+[1,1]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,1]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,1]<stdout>:    file_format=tfrecord,
+[1,1]<stdout>:    download_size=29.45 MiB,
+[1,1]<stdout>:    dataset_size=36.42 MiB,
+[1,1]<stdout>:    features=FeaturesDict({
+[1,1]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,1]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,1]<stdout>:    }),
+[1,1]<stdout>:    supervised_keys=('image', 'label'),
+[1,1]<stdout>:    disable_shuffling=False,
+[1,1]<stdout>:    splits={
+[1,1]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,1]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,1]<stdout>:    },
+[1,1]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,1]<stdout>:      author    = {Han Xiao and
+[1,1]<stdout>:                   Kashif Rasul and
+[1,1]<stdout>:                   Roland Vollgraf},
+[1,1]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,1]<stdout>:                   Algorithms},
+[1,1]<stdout>:      journal   = {CoRR},
+[1,1]<stdout>:      volume    = {abs/1708.07747},
+[1,1]<stdout>:      year      = {2017},
+[1,1]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,1]<stdout>:      archivePrefix = {arXiv},
+[1,1]<stdout>:      eprint    = {1708.07747},
+[1,1]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,1]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,1]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,1]<stdout>:    }""",
+[1,1]<stdout>:)
+[1,4]<stdout>:tfds.core.DatasetInfo(
+[1,4]<stdout>:    name='fashion_mnist',
+[1,4]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,4]<stdout>:    description="""
+[1,4]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,4]<stdout>:    """,
+[1,4]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,4]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,4]<stdout>:    file_format=tfrecord,
+[1,4]<stdout>:    download_size=29.45 MiB,
+[1,4]<stdout>:    dataset_size=36.42 MiB,
+[1,4]<stdout>:    features=FeaturesDict({
+[1,4]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,4]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,4]<stdout>:    }),
+[1,4]<stdout>:    supervised_keys=('image', 'label'),
+[1,4]<stdout>:    disable_shuffling=False,
+[1,4]<stdout>:    splits={
+[1,4]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,4]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,4]<stdout>:    },
+[1,4]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,4]<stdout>:      author    = {Han Xiao and
+[1,4]<stdout>:                   Kashif Rasul and
+[1,4]<stdout>:                   Roland Vollgraf},
+[1,4]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,4]<stdout>:                   Algorithms},
+[1,4]<stdout>:      journal   = {CoRR},
+[1,4]<stdout>:      volume    = {abs/1708.07747},
+[1,4]<stdout>:      year      = {2017},
+[1,4]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,4]<stdout>:      archivePrefix = {arXiv},
+[1,4]<stdout>:      eprint    = {1708.07747},
+[1,4]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,4]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,4]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,4]<stdout>:    }""",
+[1,4]<stdout>:)
+[1,3]<stdout>:tfds.core.DatasetInfo(
+[1,3]<stdout>:    name='fashion_mnist',
+[1,3]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,3]<stdout>:    description="""
+[1,3]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,3]<stdout>:    """,
+[1,3]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,3]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,3]<stdout>:    file_format=tfrecord,
+[1,3]<stdout>:    download_size=29.45 MiB,
+[1,3]<stdout>:    dataset_size=36.42 MiB,
+[1,3]<stdout>:    features=FeaturesDict({
+[1,3]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,3]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,3]<stdout>:    }),
+[1,3]<stdout>:    supervised_keys=('image', 'label'),
+[1,3]<stdout>:    disable_shuffling=False,
+[1,3]<stdout>:    splits={
+[1,3]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,3]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,3]<stdout>:    },
+[1,3]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,3]<stdout>:      author    = {Han Xiao and
+[1,3]<stdout>:                   Kashif Rasul and
+[1,3]<stdout>:                   Roland Vollgraf},
+[1,3]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,3]<stdout>:                   Algorithms},
+[1,3]<stdout>:      journal   = {CoRR},
+[1,3]<stdout>:      volume    = {abs/1708.07747},
+[1,3]<stdout>:      year      = {2017},
+[1,3]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,3]<stdout>:      archivePrefix = {arXiv},
+[1,3]<stdout>:      eprint    = {1708.07747},
+[1,3]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,3]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,3]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,3]<stdout>:    }""",
+[1,3]<stdout>:)
+[1,6]<stdout>:tfds.core.DatasetInfo(
+[1,6]<stdout>:    name='fashion_mnist',
+[1,6]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,6]<stdout>:    description="""
+[1,6]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,6]<stdout>:    """,
+[1,6]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,6]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,6]<stdout>:    file_format=tfrecord,
+[1,6]<stdout>:    download_size=29.45 MiB,
+[1,6]<stdout>:    dataset_size=36.42 MiB,
+[1,6]<stdout>:    features=FeaturesDict({
+[1,6]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,6]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,6]<stdout>:    }),
+[1,6]<stdout>:    supervised_keys=('image', 'label'),
+[1,6]<stdout>:    disable_shuffling=False,
+[1,6]<stdout>:    splits={
+[1,6]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,6]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,6]<stdout>:    },
+[1,6]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,6]<stdout>:      author    = {Han Xiao and
+[1,6]<stdout>:                   Kashif Rasul and
+[1,6]<stdout>:                   Roland Vollgraf},
+[1,6]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,6]<stdout>:                   Algorithms},
+[1,6]<stdout>:      journal   = {CoRR},
+[1,6]<stdout>:      volume    = {abs/1708.07747},
+[1,6]<stdout>:      year      = {2017},
+[1,6]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,6]<stdout>:      archivePrefix = {arXiv},
+[1,6]<stdout>:      eprint    = {1708.07747},
+[1,6]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,6]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,6]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,6]<stdout>:    }""",
+[1,6]<stdout>:)
+[1,0]<stdout>:tfds.core.DatasetInfo(
+[1,0]<stdout>:    name='fashion_mnist',
+[1,0]<stdout>:    full_name='fashion_mnist/3.0.1',
+[1,0]<stdout>:    description="""
+[1,0]<stdout>:    Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+[1,0]<stdout>:    """,
+[1,0]<stdout>:    homepage='https://github.com/zalandoresearch/fashion-mnist',
+[1,0]<stdout>:    data_dir='/root/tensorflow_datasets/fashion_mnist/3.0.1',
+[1,0]<stdout>:    file_format=tfrecord,
+[1,0]<stdout>:    download_size=29.45 MiB,
+[1,0]<stdout>:    dataset_size=36.42 MiB,
+[1,0]<stdout>:    features=FeaturesDict({
+[1,0]<stdout>:        'image': Image(shape=(28, 28, 1), dtype=uint8),
+[1,0]<stdout>:        'label': ClassLabel(shape=(), dtype=int64, num_classes=10),
+[1,0]<stdout>:    }),
+[1,0]<stdout>:    supervised_keys=('image', 'label'),
+[1,0]<stdout>:    disable_shuffling=False,
+[1,0]<stdout>:    splits={
+[1,0]<stdout>:        'test': <SplitInfo num_examples=10000, num_shards=1>,
+[1,0]<stdout>:        'train': <SplitInfo num_examples=60000, num_shards=1>,
+[1,0]<stdout>:    },
+[1,0]<stdout>:    citation="""@article{DBLP:journals/corr/abs-1708-07747,
+[1,0]<stdout>:      author    = {Han Xiao and
+[1,0]<stdout>:                   Kashif Rasul and
+[1,0]<stdout>:                   Roland Vollgraf},
+[1,0]<stdout>:      title     = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning
+[1,0]<stdout>:                   Algorithms},
+[1,0]<stdout>:      journal   = {CoRR},
+[1,0]<stdout>:      volume    = {abs/1708.07747},
+[1,0]<stdout>:      year      = {2017},
+[1,0]<stdout>:      url       = {http://arxiv.org/abs/1708.07747},
+[1,0]<stdout>:      archivePrefix = {arXiv},
+[1,0]<stdout>:      eprint    = {1708.07747},
+[1,0]<stdout>:      timestamp = {Mon, 13 Aug 2018 16:47:27 +0200},
+[1,0]<stdout>:      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-07747},
+[1,0]<stdout>:      bibsource = {dblp computer science bibliography, https://dblp.org}
+[1,0]<stdout>:    }""",
+[1,0]<stdout>:)
+[1,2]<stderr>:2024-07-30 09:37:26.015054: I   57369 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_1' with dtype string and shape [1]
+[1,2]<stderr>:	 [[{{node Placeholder/_1}}]]
+[1,2]<stderr>:2024-07-30 09:37:26.015532: I   57369 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype string and shape [1]
+[1,2]<stderr>:	 [[{{node Placeholder/_0}}]]
+[1,5]<stderr>:2024-07-30 09:37:26.022839: I   57372 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,5]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,5]<stderr>:2024-07-30 09:37:26.023309: I   57372 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,5]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,3]<stderr>:2024-07-30 09:37:26.038590: I   57370 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_1' with dtype string and shape [1]
+[1,3]<stderr>:	 [[{{node Placeholder/_1}}]]
+[1,3]<stderr>:2024-07-30 09:37:26.039079: I   57370 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype string and shape [1]
+[1,3]<stderr>:	 [[{{node Placeholder/_0}}]]
+[1,1]<stderr>:2024-07-30 09:37:26.039289: I   57360 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,1]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,1]<stderr>:2024-07-30 09:37:26.039749: I   57360 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_1' with dtype string and shape [1]
+[1,1]<stderr>:	 [[{{node Placeholder/_1}}]]
+[1,4]<stderr>:2024-07-30 09:37:26.042367: I   57371 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_3' with dtype int64 and shape [1]
+[1,4]<stderr>:	 [[{{node Placeholder/_3}}]]
+[1,4]<stderr>:2024-07-30 09:37:26.042842: I   57371 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,4]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,7]<stderr>:2024-07-30 09:37:26.060722: I   57382 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,7]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,7]<stderr>:2024-07-30 09:37:26.061182: I   57382 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype string and shape [1]
+[1,7]<stderr>:	 [[{{node Placeholder/_0}}]]
+[1,6]<stderr>:2024-07-30 09:37:26.065966: I   57379 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,6]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,6]<stderr>:2024-07-30 09:37:26.066434: I   57379 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,6]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,0]<stdout>:Model: "res_net50"
+[1,0]<stdout>:_________________________________________________________________
+[1,0]<stdout>: Layer (type)                Output Shape              Param #   
+[1,0]<stdout>:=================================================================
+[1,0]<stdout>: conv2d (Conv2D)             multiple                  3200      
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: batch_normalization (BatchN  multiple                 256       
+[1,0]<stdout>: ormalization)                                                   
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: activation (Activation)     multiple                  0         
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: max_pooling2d (MaxPooling2D  multiple                 0         
+[1,0]<stdout>: )                                                               
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block (ResidualBlo  multiple                 75904     
+[1,0]<stdout>: ck)                                                             
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_1 (ResidualB  multiple                 71552     
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_2 (ResidualB  multiple                 71552     
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: conv2d_11 (Conv2D)          multiple                  131584    
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_3 (ResidualB  multiple                 282368    
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_4 (ResidualB  multiple                 282368    
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_5 (ResidualB  multiple                 282368    
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_6 (ResidualB  multiple                 282368    
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: conv2d_24 (Conv2D)          multiple                  525312    
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_7 (ResidualB  multiple                 1121792   
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_8 (ResidualB  multiple                 1121792   
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_9 (ResidualB  multiple                 1121792   
+[1,0]<stdout>: lock)                                                           
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_10 (Residual  multiple                 1121792   
+[1,0]<stdout>: Block)                                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_11 (Residual  multiple                 1121792   
+[1,0]<stdout>: Block)                                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_12 (Residual  multiple                 1121792   
+[1,0]<stdout>: Block)                                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: conv2d_43 (Conv2D)          multiple                  2099200   
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_13 (Residual  multiple                 4471808   
+[1,0]<stdout>: Block)                                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_14 (Residual  multiple                 4471808   
+[1,0]<stdout>: Block)                                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: residual_block_15 (Residual  multiple                 4471808   
+[1,0]<stdout>: Block)                                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: global_average_pooling2d (G  multiple                 0         
+[1,0]<stdout>: lobalAveragePooling2D)                                          
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: dense (Dense)               multiple                  2049000   
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>: dense_1 (Dense)             multiple                  10010     
+[1,0]<stdout>:                                                                 
+[1,0]<stdout>:=================================================================
+[1,0]<stdout>:Total params: 26,313,218
+[1,0]<stdout>:Trainable params: 26,267,778
+[1,0]<stdout>:Non-trainable params: 45,440
+[1,0]<stdout>:_________________________________________________________________
+[1,0]<stderr>:2024-07-30 09:37:26.132265: I   57357 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,0]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,0]<stderr>:2024-07-30 09:37:26.132737: I   57357 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype string and shape [1]
+[1,0]<stderr>:	 [[{{node Placeholder/_0}}]]
+[1,5]<stderr>:2024-07-30 09:37:37.986469: I   57372 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,5]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,3]<stderr>:2024-07-30 09:37:38.059131: I   57370 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,3]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,7]<stderr>:2024-07-30 09:37:38.098547: I   57382 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,4]<stderr>:2024-07-30 09:37:38.099055: I   57371 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,5]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,7]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,4]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,2]<stderr>:2024-07-30 09:37:38.148770: I   57369 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,3]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,1]<stderr>:2024-07-30 09:37:38.161735: I   57360 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,2]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,1]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,7]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,4]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,5]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,3]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,2]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,1]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,7]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,4]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,2]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,1]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,0]<stderr>:2024-07-30 09:37:38.369716: I   57357 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,0]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,6]<stderr>:2024-07-30 09:37:38.445448: I   57379 tensorflow/core/kernels/mlu_kernels/mlu_baseop.cc:56] TF32 disalbed because compute capability < 5
+[1,0]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,6]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlGetConvolutionForwardAlgorithm] is deprecated and will be removed in the future release. See cnnlFindConvolutionForwardAlgorithm() API for replacement.
+[1,6]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignAdd] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,0]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,6]<stdout>:[2024-7-30 17:37:38] [1m[33m[CNNL] [1m[35m[Warning]:[0m[cnnlAssignSub] is deprecated and will be removed in the future release, please use [cnnlOpTensor] instead.
+[1,5]<stderr>:2024-07-30 09:38:22.195139: I   57372 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,5]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,5]<stderr>:2024-07-30 09:38:22.195625: I   57372 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_3' with dtype int64 and shape [1]
+[1,5]<stderr>:	 [[{{node Placeholder/_3}}]]
+[1,1]<stderr>:2024-07-30 09:38:22.448187: I   57360 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,1]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,1]<stderr>:2024-07-30 09:38:22.448674: I   57360 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,1]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,3]<stderr>:2024-07-30 09:38:22.768270: I   57370 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,3]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,3]<stderr>:2024-07-30 09:38:22.768915: I   57370 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_1' with dtype string and shape [1]
+[1,3]<stderr>:	 [[{{node Placeholder/_1}}]]
+[1,4]<stderr>:2024-07-30 09:38:22.831683: I   57371 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,4]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,4]<stderr>:2024-07-30 09:38:22.832172: I   57371 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,4]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,7]<stderr>:2024-07-30 09:38:22.855943: I   57382 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_3' with dtype int64 and shape [1]
+[1,7]<stderr>:	 [[{{node Placeholder/_3}}]]
+[1,7]<stderr>:2024-07-30 09:38:22.856430: I   57382 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,7]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,2]<stderr>:2024-07-30 09:38:22.857500: I   57369 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,2]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,2]<stderr>:2024-07-30 09:38:22.858009: I   57369 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_3' with dtype int64 and shape [1]
+[1,2]<stderr>:	 [[{{node Placeholder/_3}}]]
+[1,6]<stderr>:2024-07-30 09:38:23.565429: I   57379 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_2' with dtype string and shape [1]
+[1,6]<stderr>:	 [[{{node Placeholder/_2}}]]
+[1,6]<stderr>:2024-07-30 09:38:23.566065: I   57379 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_3' with dtype int64 and shape [1]
+[1,6]<stderr>:	 [[{{node Placeholder/_3}}]]
+[1,0]<stderr>:2024-07-30 09:38:24.064995: I   57357 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [1]
+[1,0]<stderr>:	 [[{{node Placeholder/_4}}]]
+[1,0]<stderr>:2024-07-30 09:38:24.065516: I   57357 tensorflow/core/common_runtime/executor.cc:1252] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_1' with dtype string and shape [1]
+[1,0]<stderr>:	 [[{{node Placeholder/_1}}]]
+[1,0]<stdout>:Epoch 1, Loss: 0.7741763591766357, Accuracy: 69.8566665649414, Test Loss: 0.49638280272483826, Test Accuracy: 81.04000091552734, spent_time: 1.008165669441223 min
+[1,0]<stdout>:Epoch 2, Loss: 0.6268776059150696, Accuracy: 75.91583251953125, Test Loss: 0.46571478247642517, Test Accuracy: 82.54500579833984, spent_time: 1.6548167904218039 min
+[1,0]<stdout>:Epoch 3, Loss: 0.5616154074668884, Accuracy: 78.5183334350586, Test Loss: 0.45223549008369446, Test Accuracy: 83.24666595458984, spent_time: 2.3042782465616862 min
+[1,0]<stdout>:Epoch 4, Loss: 0.5223054885864258, Accuracy: 80.08917236328125, Test Loss: 0.4389832019805908, Test Accuracy: 83.79500579833984, spent_time: 2.945576830705007 min
+[1,0]<stdout>:Epoch 5, Loss: 0.49338939785957336, Accuracy: 81.23966217041016, Test Loss: 0.4264257252216339, Test Accuracy: 84.36199951171875, spent_time: 3.590707619984945 min
+[1,0]<stdout>:Epoch 6, Loss: 0.4711199700832367, Accuracy: 82.12249755859375, Test Loss: 0.411105215549469, Test Accuracy: 84.9316635131836, spent_time: 4.23603857755661 min
+[1,0]<stdout>:Epoch 7, Loss: 0.4540330469608307, Accuracy: 82.81666564941406, Test Loss: 0.40223756432533264, Test Accuracy: 85.29142761230469, spent_time: 4.88326328198115 min
+[1,0]<stdout>:Epoch 8, Loss: 0.4402545392513275, Accuracy: 83.36457824707031, Test Loss: 0.39201968908309937, Test Accuracy: 85.68750762939453, spent_time: 5.532213501135508 min
+[1,0]<stdout>:Epoch 9, Loss: 0.427951842546463, Accuracy: 83.83981323242188, Test Loss: 0.3865882456302643, Test Accuracy: 85.83000183105469, spent_time: 6.175980806350708 min
+[1,0]<stdout>:Epoch 10, Loss: 0.4176969528198242, Accuracy: 84.25817108154297, Test Loss: 0.38174164295196533, Test Accuracy: 86.10199737548828, spent_time: 6.814897843201956 min
+[1,0]<stdout>:Epoch 11, Loss: 0.40827426314353943, Accuracy: 84.62060546875, Test Loss: 0.3756738007068634, Test Accuracy: 86.32453918457031, spent_time: 7.458706104755402 min
+[1,0]<stdout>:Epoch 12, Loss: 0.3995291292667389, Accuracy: 84.96416473388672, Test Loss: 0.3718712031841278, Test Accuracy: 86.4558334350586, spent_time: 8.097227187951406 min
+[1,0]<stdout>:Epoch 13, Loss: 0.3921830952167511, Accuracy: 85.2556381225586, Test Loss: 0.366801381111145, Test Accuracy: 86.6815414428711, spent_time: 8.737746866544088 min
+[1,0]<stdout>:Epoch 14, Loss: 0.38532036542892456, Accuracy: 85.51797485351562, Test Loss: 0.3646118938922882, Test Accuracy: 86.78785705566406, spent_time: 9.381882802645366 min
+[1,0]<stdout>:Epoch 15, Loss: 0.37850308418273926, Accuracy: 85.78176879882812, Test Loss: 0.36005550622940063, Test Accuracy: 86.96133422851562, spent_time: 10.0247971812884 min
+[1,0]<stdout>:Epoch 16, Loss: 0.3725064694881439, Accuracy: 85.99874877929688, Test Loss: 0.3570796847343445, Test Accuracy: 87.10125732421875, spent_time: 10.661061414082845 min
+[1,0]<stdout>:Epoch 17, Loss: 0.36694586277008057, Accuracy: 86.2132339477539, Test Loss: 0.3533049523830414, Test Accuracy: 87.22588348388672, spent_time: 11.303029664357503 min
+[1,0]<stdout>:Epoch 18, Loss: 0.361908882856369, Accuracy: 86.41287231445312, Test Loss: 0.3491409420967102, Test Accuracy: 87.3838882446289, spent_time: 11.938644210497538 min
+[1,0]<stdout>:Epoch 19, Loss: 0.3571106791496277, Accuracy: 86.59394073486328, Test Loss: 0.3464776277542114, Test Accuracy: 87.50421142578125, spent_time: 12.578895497322083 min
+[1,0]<stdout>:Epoch 20, Loss: 0.3527286648750305, Accuracy: 86.7578353881836, Test Loss: 0.3439692556858063, Test Accuracy: 87.61000061035156, spent_time: 13.224080379803976 min
+[1,0]<stdout>:Epoch 21, Loss: 0.348471462726593, Accuracy: 86.91753387451172, Test Loss: 0.34218892455101013, Test Accuracy: 87.7161865234375, spent_time: 13.863546840349834 min
+[1,0]<stdout>:Epoch 22, Loss: 0.3444063365459442, Accuracy: 87.07015228271484, Test Loss: 0.3395100235939026, Test Accuracy: 87.82090759277344, spent_time: 14.5062038620313 min
+[1,0]<stdout>:Epoch 23, Loss: 0.340853750705719, Accuracy: 87.20203399658203, Test Loss: 0.3378271758556366, Test Accuracy: 87.88870239257812, spent_time: 15.150062151749928 min
+[1,0]<stdout>:Epoch 24, Loss: 0.33725500106811523, Accuracy: 87.33784484863281, Test Loss: 0.33508431911468506, Test Accuracy: 87.9987564086914, spent_time: 15.796162037054698 min
+[1,0]<stdout>:Epoch 25, Loss: 0.33382508158683777, Accuracy: 87.46720123291016, Test Loss: 0.33327895402908325, Test Accuracy: 88.10039520263672, spent_time: 16.44424501260122 min
+[1,0]<stdout>:Epoch 26, Loss: 0.3304372727870941, Accuracy: 87.59391021728516, Test Loss: 0.3310902714729309, Test Accuracy: 88.19153594970703, spent_time: 17.087109394868214 min
+[1,0]<stdout>:Epoch 27, Loss: 0.3272608518600464, Accuracy: 87.71221923828125, Test Loss: 0.32893455028533936, Test Accuracy: 88.26889038085938, spent_time: 17.73270247777303 min
+[1,0]<stdout>:Epoch 28, Loss: 0.3247348368167877, Accuracy: 87.81130981445312, Test Loss: 0.3263920843601227, Test Accuracy: 88.35856628417969, spent_time: 18.37267009019852 min
+[1,0]<stdout>:Epoch 29, Loss: 0.3216865658760071, Accuracy: 87.92672729492188, Test Loss: 0.32440462708473206, Test Accuracy: 88.43965148925781, spent_time: 19.017133768399557 min
+[1,0]<stdout>:Epoch 30, Loss: 0.31889742612838745, Accuracy: 88.03032684326172, Test Loss: 0.32305285334587097, Test Accuracy: 88.50700378417969, spent_time: 19.658007975419363 min
+[1,0]<stdout>:Epoch 31, Loss: 0.3161492645740509, Accuracy: 88.13699340820312, Test Loss: 0.3216373920440674, Test Accuracy: 88.55968475341797, spent_time: 20.300949347019195 min
+[1,0]<stdout>:Epoch 32, Loss: 0.3133891224861145, Accuracy: 88.23750305175781, Test Loss: 0.3197067379951477, Test Accuracy: 88.63656616210938, spent_time: 20.94116581281026 min
+[1,0]<stdout>:Epoch 33, Loss: 0.3109678626060486, Accuracy: 88.32605743408203, Test Loss: 0.3178309202194214, Test Accuracy: 88.70606231689453, spent_time: 21.580531617005665 min
+[1,0]<stdout>:Epoch 34, Loss: 0.3085543215274811, Accuracy: 88.41230773925781, Test Loss: 0.31683632731437683, Test Accuracy: 88.7685317993164, spent_time: 22.217780236403147 min
+[1,0]<stdout>:Epoch 35, Loss: 0.30625152587890625, Accuracy: 88.498046875, Test Loss: 0.31594520807266235, Test Accuracy: 88.80828857421875, spent_time: 22.855801101525625 min
+[1,0]<stdout>:Epoch 36, Loss: 0.30413320660591125, Accuracy: 88.57707977294922, Test Loss: 0.31480616331100464, Test Accuracy: 88.85916137695312, spent_time: 23.49158296187719 min
+[1,0]<stdout>:Epoch 37, Loss: 0.3018837571144104, Accuracy: 88.66360473632812, Test Loss: 0.31336355209350586, Test Accuracy: 88.91621398925781, spent_time: 24.128164152304333 min
+[1,0]<stdout>:Epoch 38, Loss: 0.2997627556324005, Accuracy: 88.74464416503906, Test Loss: 0.3117412328720093, Test Accuracy: 88.97289276123047, spent_time: 24.758642097314198 min
+[1,0]<stdout>:Epoch 39, Loss: 0.2977150082588196, Accuracy: 88.82080841064453, Test Loss: 0.3104958236217499, Test Accuracy: 89.0123062133789, spent_time: 25.398398383458456 min
+[1,0]<stdout>:Epoch 40, Loss: 0.295756995677948, Accuracy: 88.8948745727539, Test Loss: 0.30921071767807007, Test Accuracy: 89.06725311279297, spent_time: 26.043579936027527 min
+[1,0]<stdout>:Epoch 41, Loss: 0.293813556432724, Accuracy: 88.96707153320312, Test Loss: 0.3081243932247162, Test Accuracy: 89.11463928222656, spent_time: 26.678955960273743 min
+[1,0]<stdout>:Epoch 42, Loss: 0.2919405698776245, Accuracy: 89.03897094726562, Test Loss: 0.3071924149990082, Test Accuracy: 89.15237426757812, spent_time: 27.315351764361065 min
+[1,0]<stdout>:Epoch 43, Loss: 0.2900930345058441, Accuracy: 89.10673522949219, Test Loss: 0.3060879707336426, Test Accuracy: 89.20325469970703, spent_time: 27.95267000198364 min
+[1,0]<stdout>:Epoch 44, Loss: 0.28831031918525696, Accuracy: 89.1727294921875, Test Loss: 0.30522480607032776, Test Accuracy: 89.25431060791016, spent_time: 28.58815431992213 min
+[1,0]<stdout>:Epoch 45, Loss: 0.28652483224868774, Accuracy: 89.23774719238281, Test Loss: 0.30438870191574097, Test Accuracy: 89.27910614013672, spent_time: 29.228510212898254 min
+[1,0]<stdout>:Epoch 46, Loss: 0.2847867012023926, Accuracy: 89.30253601074219, Test Loss: 0.30385512113571167, Test Accuracy: 89.31456756591797, spent_time: 29.856244826316832 min
+[1,0]<stdout>:Epoch 47, Loss: 0.2830800414085388, Accuracy: 89.3653564453125, Test Loss: 0.30296042561531067, Test Accuracy: 89.34766387939453, spent_time: 30.488550146420796 min
+[1,0]<stdout>:Epoch 48, Loss: 0.28145766258239746, Accuracy: 89.42523956298828, Test Loss: 0.3017122447490692, Test Accuracy: 89.38645935058594, spent_time: 31.126718318462373 min
+[1,0]<stdout>:Epoch 49, Loss: 0.279899001121521, Accuracy: 89.48445129394531, Test Loss: 0.3012942671775818, Test Accuracy: 89.41204071044922, spent_time: 31.761510769526165 min
+[1,0]<stdout>:Epoch 50, Loss: 0.2783089280128479, Accuracy: 89.54422760009766, Test Loss: 0.3004087507724762, Test Accuracy: 89.45600128173828, spent_time: 32.3984539826711 min
+[1,0]<stdout>:Epoch 51, Loss: 0.2768069803714752, Accuracy: 89.59813690185547, Test Loss: 0.29983294010162354, Test Accuracy: 89.487060546875, spent_time: 33.037899406750995 min
+[1,0]<stdout>:Epoch 52, Loss: 0.27533259987831116, Accuracy: 89.65185546875, Test Loss: 0.2991485595703125, Test Accuracy: 89.52327728271484, spent_time: 33.73151831229528 min
+[1,0]<stdout>:Epoch 53, Loss: 0.2738669216632843, Accuracy: 89.70565795898438, Test Loss: 0.2985272705554962, Test Accuracy: 89.55848693847656, spent_time: 34.373317539691925 min
+[1,0]<stdout>:Epoch 54, Loss: 0.2723725140094757, Accuracy: 89.76234436035156, Test Loss: 0.29779914021492004, Test Accuracy: 89.59166717529297, spent_time: 35.005936626593275 min
+[1,0]<stdout>:Epoch 55, Loss: 0.2709571421146393, Accuracy: 89.81342315673828, Test Loss: 0.2973800599575043, Test Accuracy: 89.61164093017578, spent_time: 35.634707204500835 min
+[1,0]<stdout>:Epoch 56, Loss: 0.2695559859275818, Accuracy: 89.86466979980469, Test Loss: 0.29732152819633484, Test Accuracy: 89.63232421875, spent_time: 36.271589040756226 min
+[1,0]<stdout>:Epoch 57, Loss: 0.2682170867919922, Accuracy: 89.91426849365234, Test Loss: 0.2970263361930847, Test Accuracy: 89.65719604492188, spent_time: 36.91078394254048 min
+[1,0]<stdout>:Epoch 58, Loss: 0.26685723662376404, Accuracy: 89.96466064453125, Test Loss: 0.29622042179107666, Test Accuracy: 89.68914031982422, spent_time: 37.54927296638489 min
+[1,0]<stdout>:Epoch 59, Loss: 0.2655199468135834, Accuracy: 90.01471710205078, Test Loss: 0.2956916093826294, Test Accuracy: 89.71542358398438, spent_time: 38.18192745447159 min
+[1,0]<stdout>:Epoch 60, Loss: 0.26455235481262207, Accuracy: 90.05282592773438, Test Loss: 0.29509469866752625, Test Accuracy: 89.74482727050781, spent_time: 38.81744117736817 min
+[1,0]<stdout>:Epoch 61, Loss: 0.26324012875556946, Accuracy: 90.10057067871094, Test Loss: 0.2948418855667114, Test Accuracy: 89.76836395263672, spent_time: 39.454249461491905 min
+[1,0]<stdout>:Epoch 62, Loss: 0.26194319128990173, Accuracy: 90.1489028930664, Test Loss: 0.29494574666023254, Test Accuracy: 89.77742004394531, spent_time: 40.090988115469614 min
+[1,0]<stdout>:Epoch 63, Loss: 0.2606718838214874, Accuracy: 90.19613647460938, Test Loss: 0.29497048258781433, Test Accuracy: 89.78365325927734, spent_time: 40.721044993400575 min
+[1,0]<stdout>:Epoch 64, Loss: 0.2595084011554718, Accuracy: 90.2398681640625, Test Loss: 0.29460448026657104, Test Accuracy: 89.79828643798828, spent_time: 41.36365572214127 min
+[1,0]<stdout>:Epoch 65, Loss: 0.25836414098739624, Accuracy: 90.28182220458984, Test Loss: 0.2945282757282257, Test Accuracy: 89.8192367553711, spent_time: 42.004164254665376 min
+[1,0]<stdout>:Epoch 66, Loss: 0.25719961524009705, Accuracy: 90.32428741455078, Test Loss: 0.29446637630462646, Test Accuracy: 89.84197235107422, spent_time: 42.63604827721914 min
+[1,0]<stdout>:Epoch 67, Loss: 0.2560724914073944, Accuracy: 90.36591339111328, Test Loss: 0.29427239298820496, Test Accuracy: 89.85895538330078, spent_time: 43.26860857804616 min
+[1,0]<stdout>:Epoch 68, Loss: 0.25492727756500244, Accuracy: 90.40901947021484, Test Loss: 0.2937990725040436, Test Accuracy: 89.87720489501953, spent_time: 43.90353703896205 min
+[1,0]<stdout>:Epoch 69, Loss: 0.25382235646247864, Accuracy: 90.4502944946289, Test Loss: 0.2933942675590515, Test Accuracy: 89.89492797851562, spent_time: 44.53809708754222 min
+[1,0]<stdout>:Epoch 70, Loss: 0.25277233123779297, Accuracy: 90.48926544189453, Test Loss: 0.29307499527931213, Test Accuracy: 89.91300201416016, spent_time: 45.17586845556895 min
+[1,0]<stdout>:Epoch 71, Loss: 0.25164371728897095, Accuracy: 90.53081512451172, Test Loss: 0.2925921380519867, Test Accuracy: 89.93183135986328, spent_time: 45.8100030263265 min
+[1,0]<stdout>:Epoch 72, Loss: 0.2505730390548706, Accuracy: 90.56980895996094, Test Loss: 0.292430579662323, Test Accuracy: 89.95305633544922, spent_time: 46.45100245873133 min
+[1,0]<stdout>:Epoch 73, Loss: 0.24952781200408936, Accuracy: 90.60713958740234, Test Loss: 0.291983425617218, Test Accuracy: 89.9743881225586, spent_time: 47.090184621016185 min
+[1,0]<stdout>:Epoch 74, Loss: 0.2484598308801651, Accuracy: 90.64608001708984, Test Loss: 0.2917901873588562, Test Accuracy: 89.99080657958984, spent_time: 47.72826544046402 min
+[1,0]<stdout>:Epoch 75, Loss: 0.24740371108055115, Accuracy: 90.68549346923828, Test Loss: 0.291329950094223, Test Accuracy: 90.0103988647461, spent_time: 48.36809868017833 min
+[1,0]<stdout>:Epoch 76, Loss: 0.24634601175785065, Accuracy: 90.72503662109375, Test Loss: 0.2909345030784607, Test Accuracy: 90.03302764892578, spent_time: 49.00666394631068 min
+[1,0]<stdout>:Epoch 77, Loss: 0.24535402655601501, Accuracy: 90.76065063476562, Test Loss: 0.29094767570495605, Test Accuracy: 90.03948211669922, spent_time: 49.65464011033376 min
+[1,0]<stdout>:Epoch 78, Loss: 0.2443259060382843, Accuracy: 90.7998275756836, Test Loss: 0.2905924618244171, Test Accuracy: 90.06101989746094, spent_time: 50.295064191023506 min
+[1,0]<stdout>:Epoch 79, Loss: 0.24334217607975006, Accuracy: 90.83643341064453, Test Loss: 0.290499746799469, Test Accuracy: 90.07063293457031, spent_time: 50.92974834839503 min
+[1,0]<stdout>:Epoch 80, Loss: 0.24232614040374756, Accuracy: 90.87448120117188, Test Loss: 0.29062116146087646, Test Accuracy: 90.08087158203125, spent_time: 51.56278549830119 min
+[1,0]<stdout>:Epoch 81, Loss: 0.24142050743103027, Accuracy: 90.90693664550781, Test Loss: 0.2902900278568268, Test Accuracy: 90.0982666015625, spent_time: 52.20398047765096 min
+[1,0]<stdout>:Epoch 82, Loss: 0.24050791561603546, Accuracy: 90.94148254394531, Test Loss: 0.28995245695114136, Test Accuracy: 90.11865997314453, spent_time: 52.83937600851059 min
+[1,0]<stdout>:Epoch 83, Loss: 0.23954059183597565, Accuracy: 90.97642517089844, Test Loss: 0.289898157119751, Test Accuracy: 90.12999725341797, spent_time: 53.48205761114756 min
+[1,0]<stdout>:Epoch 84, Loss: 0.23860518634319305, Accuracy: 91.01165771484375, Test Loss: 0.2895033061504364, Test Accuracy: 90.14678955078125, spent_time: 54.11827736695607 min
+[1,0]<stdout>:Epoch 85, Loss: 0.23770397901535034, Accuracy: 91.04513549804688, Test Loss: 0.2894531488418579, Test Accuracy: 90.16152954101562, spent_time: 54.756579232215884 min
+[1,0]<stdout>:Epoch 86, Loss: 0.236791729927063, Accuracy: 91.07976531982422, Test Loss: 0.28939148783683777, Test Accuracy: 90.17337036132812, spent_time: 55.40071419477463 min
+[1,0]<stdout>:Epoch 87, Loss: 0.23585888743400574, Accuracy: 91.11408233642578, Test Loss: 0.28933414816856384, Test Accuracy: 90.1854019165039, spent_time: 56.035779571533205 min
+[1,0]<stdout>:Epoch 88, Loss: 0.23494979739189148, Accuracy: 91.14799499511719, Test Loss: 0.2891038656234741, Test Accuracy: 90.20124816894531, spent_time: 56.67105868260066 min
+[1,0]<stdout>:Epoch 89, Loss: 0.2340802550315857, Accuracy: 91.18119812011719, Test Loss: 0.28902778029441833, Test Accuracy: 90.2161865234375, spent_time: 57.30962926944097 min
+[1,0]<stdout>:Epoch 90, Loss: 0.23320885002613068, Accuracy: 91.21337127685547, Test Loss: 0.2887742817401886, Test Accuracy: 90.2316665649414, spent_time: 57.9465709288915 min
+[1,0]<stdout>:Epoch 91, Loss: 0.23240907490253448, Accuracy: 91.24275970458984, Test Loss: 0.28851160407066345, Test Accuracy: 90.24681854248047, spent_time: 58.58589500983556 min
+[1,0]<stdout>:Epoch 92, Loss: 0.23157261312007904, Accuracy: 91.27410888671875, Test Loss: 0.2883819341659546, Test Accuracy: 90.25869750976562, spent_time: 59.22513082027435 min
+[1,0]<stdout>:Epoch 93, Loss: 0.23071004450321198, Accuracy: 91.3066177368164, Test Loss: 0.28822165727615356, Test Accuracy: 90.2718276977539, spent_time: 59.85977712869644 min
+[1,0]<stdout>:Epoch 94, Loss: 0.2299010157585144, Accuracy: 91.33604431152344, Test Loss: 0.2881869673728943, Test Accuracy: 90.28733825683594, spent_time: 60.496083350976306 min
+[1,0]<stdout>:Epoch 95, Loss: 0.2290564924478531, Accuracy: 91.36656188964844, Test Loss: 0.2883011996746063, Test Accuracy: 90.29694366455078, spent_time: 61.13119088013967 min
+[1,0]<stdout>:Epoch 96, Loss: 0.2282353788614273, Accuracy: 91.39654541015625, Test Loss: 0.2883647084236145, Test Accuracy: 90.30864715576172, spent_time: 61.77255588769913 min
+[1,0]<stdout>:Epoch 97, Loss: 0.2274586409330368, Accuracy: 91.42581939697266, Test Loss: 0.2882712483406067, Test Accuracy: 90.31917572021484, spent_time: 62.40828818480174 min
+[1,0]<stdout>:Epoch 98, Loss: 0.2266077995300293, Accuracy: 91.4576187133789, Test Loss: 0.2881341278553009, Test Accuracy: 90.33295440673828, spent_time: 63.04571630160014 min
+[1,0]<stdout>:Epoch 99, Loss: 0.2257869392633438, Accuracy: 91.48777770996094, Test Loss: 0.28791701793670654, Test Accuracy: 90.34171295166016, spent_time: 63.67744955221812 min
+[1,0]<stdout>:Epoch 100, Loss: 0.2249554693698883, Accuracy: 91.51896667480469, Test Loss: 0.2876780927181244, Test Accuracy: 90.35749816894531, spent_time: 64.31070587237676 min
+[1,0]<stdout>:Epoch 101, Loss: 0.2241675853729248, Accuracy: 91.54874420166016, Test Loss: 0.28755319118499756, Test Accuracy: 90.37128448486328, spent_time: 64.94703196684519 min
+[1,0]<stdout>:Epoch 102, Loss: 0.2233753502368927, Accuracy: 91.5791244506836, Test Loss: 0.28772518038749695, Test Accuracy: 90.3796157836914, spent_time: 65.5831923921903 min
+[1,0]<stdout>:Epoch 103, Loss: 0.22262050211429596, Accuracy: 91.60842895507812, Test Loss: 0.287731409072876, Test Accuracy: 90.38815307617188, spent_time: 66.22353381713232 min
+[1,0]<stdout>:Epoch 104, Loss: 0.22189590334892273, Accuracy: 91.63512420654297, Test Loss: 0.287635862827301, Test Accuracy: 90.3986587524414, spent_time: 66.86369332869847 min
+[1,0]<stdout>:Epoch 105, Loss: 0.2211497724056244, Accuracy: 91.66356658935547, Test Loss: 0.28751420974731445, Test Accuracy: 90.40990447998047, spent_time: 67.49922802050908 min
+[1,0]<stdout>:Epoch 106, Loss: 0.22039741277694702, Accuracy: 91.69133758544922, Test Loss: 0.287628710269928, Test Accuracy: 90.41471862792969, spent_time: 68.14464989503225 min
+[1,0]<stdout>:Epoch 107, Loss: 0.21963568031787872, Accuracy: 91.71952056884766, Test Loss: 0.28768786787986755, Test Accuracy: 90.42756652832031, spent_time: 68.79125389258067 min
+[1,0]<stdout>:Epoch 108, Loss: 0.21889933943748474, Accuracy: 91.7466049194336, Test Loss: 0.28794050216674805, Test Accuracy: 90.4356460571289, spent_time: 69.42918825149536 min
+[1,0]<stdout>:Epoch 109, Loss: 0.21814872324466705, Accuracy: 91.7741928100586, Test Loss: 0.2880517542362213, Test Accuracy: 90.44697570800781, spent_time: 70.06782617171605 min
+[1,0]<stdout>:Epoch 110, Loss: 0.2174547165632248, Accuracy: 91.79954528808594, Test Loss: 0.2879753112792969, Test Accuracy: 90.4580078125, spent_time: 70.70918224255244 min
+[1,0]<stdout>:Epoch 111, Loss: 0.21671850979328156, Accuracy: 91.827392578125, Test Loss: 0.2878058850765228, Test Accuracy: 90.46820068359375, spent_time: 71.33563878933589 min
+[1,0]<stdout>:Epoch 112, Loss: 0.21602897346019745, Accuracy: 91.85358428955078, Test Loss: 0.2877803146839142, Test Accuracy: 90.47795104980469, spent_time: 71.97360774278641 min
+[1,0]<stdout>:Epoch 113, Loss: 0.21531091630458832, Accuracy: 91.88066864013672, Test Loss: 0.2879024147987366, Test Accuracy: 90.48690032958984, spent_time: 72.60691817601521 min
+[1,0]<stdout>:Epoch 114, Loss: 0.21461324393749237, Accuracy: 91.90657806396484, Test Loss: 0.28792622685432434, Test Accuracy: 90.49596405029297, spent_time: 73.24417243798574 min
+[1,0]<stdout>:Epoch 115, Loss: 0.21395501494407654, Accuracy: 91.9315185546875, Test Loss: 0.28785836696624756, Test Accuracy: 90.50469207763672, spent_time: 73.88244614203771 min
+[1,0]<stdout>:Epoch 116, Loss: 0.2132558375597, Accuracy: 91.95771789550781, Test Loss: 0.2878546118736267, Test Accuracy: 90.51577758789062, spent_time: 74.51630537112554 min
+[1,0]<stdout>:Epoch 117, Loss: 0.21257586777210236, Accuracy: 91.98295593261719, Test Loss: 0.28779682517051697, Test Accuracy: 90.52589416503906, spent_time: 75.1502835114797 min
+[1,0]<stdout>:Epoch 118, Loss: 0.21188755333423615, Accuracy: 92.0092544555664, Test Loss: 0.2877505123615265, Test Accuracy: 90.53118133544922, spent_time: 75.7840989391009 min
+[1,0]<stdout>:Epoch 119, Loss: 0.21124033629894257, Accuracy: 92.03323364257812, Test Loss: 0.2878875434398651, Test Accuracy: 90.53823852539062, spent_time: 76.41659616231918 min
+[1,0]<stdout>:Epoch 120, Loss: 0.2105707973241806, Accuracy: 92.05839538574219, Test Loss: 0.2879846394062042, Test Accuracy: 90.54325103759766, spent_time: 77.04817581971487 min
+[1,0]<stdout>:Epoch 121, Loss: 0.2099873274564743, Accuracy: 92.08116149902344, Test Loss: 0.28804147243499756, Test Accuracy: 90.55207061767578, spent_time: 77.67803552548091 min
+[1,0]<stdout>:Epoch 122, Loss: 0.20934051275253296, Accuracy: 92.10629272460938, Test Loss: 0.28804251551628113, Test Accuracy: 90.56254577636719, spent_time: 78.31200299660365 min
+[1,0]<stdout>:Epoch 123, Loss: 0.2087094932794571, Accuracy: 92.13036346435547, Test Loss: 0.28827154636383057, Test Accuracy: 90.5657730102539, spent_time: 78.9550682147344 min
+[1,0]<stdout>:Epoch 124, Loss: 0.20805726945400238, Accuracy: 92.15389251708984, Test Loss: 0.2884264588356018, Test Accuracy: 90.5731430053711, spent_time: 79.58800386587778 min
+[1,0]<stdout>:Epoch 125, Loss: 0.20741398632526398, Accuracy: 92.1776123046875, Test Loss: 0.28831595182418823, Test Accuracy: 90.58248138427734, spent_time: 80.22438490390778 min
+[1,0]<stdout>:Epoch 126, Loss: 0.20675581693649292, Accuracy: 92.20207977294922, Test Loss: 0.28840842843055725, Test Accuracy: 90.59046936035156, spent_time: 80.86348861058553 min
+[1,0]<stdout>:Epoch 127, Loss: 0.20610401034355164, Accuracy: 92.22663879394531, Test Loss: 0.2885099947452545, Test Accuracy: 90.60086822509766, spent_time: 81.50331952969233 min
+[1,0]<stdout>:Epoch 128, Loss: 0.205483540892601, Accuracy: 92.24964904785156, Test Loss: 0.2885189950466156, Test Accuracy: 90.60922241210938, spent_time: 82.13847853342692 min
+[1,0]<stdout>:Epoch 129, Loss: 0.204867422580719, Accuracy: 92.27227783203125, Test Loss: 0.2885899841785431, Test Accuracy: 90.61922454833984, spent_time: 82.77862751483917 min
+[1,0]<stdout>:Epoch 130, Loss: 0.20425887405872345, Accuracy: 92.29486846923828, Test Loss: 0.2887296974658966, Test Accuracy: 90.62277221679688, spent_time: 83.41166166067123 min
+[1,0]<stdout>:Epoch 131, Loss: 0.20368017256259918, Accuracy: 92.31714630126953, Test Loss: 0.28881460428237915, Test Accuracy: 90.63053894042969, spent_time: 84.0466470360756 min
+[1,0]<stdout>:Epoch 132, Loss: 0.2030506283044815, Accuracy: 92.34017944335938, Test Loss: 0.28897738456726074, Test Accuracy: 90.63902282714844, spent_time: 84.68691125313441 min
+[1,0]<stdout>:Epoch 133, Loss: 0.20247262716293335, Accuracy: 92.3619613647461, Test Loss: 0.2891051173210144, Test Accuracy: 90.64730072021484, spent_time: 85.31947612762451 min
+[1,0]<stdout>:Epoch 134, Loss: 0.20188884437084198, Accuracy: 92.3841323852539, Test Loss: 0.2894670367240906, Test Accuracy: 90.65074157714844, spent_time: 85.96109867493311 min
+[1,0]<stdout>:Epoch 135, Loss: 0.2012942135334015, Accuracy: 92.40628051757812, Test Loss: 0.2897234857082367, Test Accuracy: 90.6565933227539, spent_time: 86.6063036719958 min
+[1,0]<stdout>:Epoch 136, Loss: 0.20072069764137268, Accuracy: 92.42753601074219, Test Loss: 0.2898319363594055, Test Accuracy: 90.66493225097656, spent_time: 87.25022859970728 min
+[1,0]<stdout>:Epoch 137, Loss: 0.20017339289188385, Accuracy: 92.44805145263672, Test Loss: 0.2898840308189392, Test Accuracy: 90.67080688476562, spent_time: 87.88732537825902 min
+[1,0]<stdout>:Epoch 138, Loss: 0.1995914727449417, Accuracy: 92.47036743164062, Test Loss: 0.29000523686408997, Test Accuracy: 90.67688751220703, spent_time: 88.52328488429387 min
+[1,0]<stdout>:Epoch 139, Loss: 0.19899669289588928, Accuracy: 92.4933090209961, Test Loss: 0.2901662588119507, Test Accuracy: 90.67935180664062, spent_time: 89.15386618375778 min
+[1,0]<stdout>:Epoch 140, Loss: 0.19845037162303925, Accuracy: 92.51364135742188, Test Loss: 0.29020577669143677, Test Accuracy: 90.68714141845703, spent_time: 89.7843143860499 min
+[1,0]<stdout>:Epoch 141, Loss: 0.1978500783443451, Accuracy: 92.53594970703125, Test Loss: 0.29043635725975037, Test Accuracy: 90.6934814453125, spent_time: 90.42098131577174 min
+[1,0]<stdout>:Epoch 142, Loss: 0.19728924334049225, Accuracy: 92.55705261230469, Test Loss: 0.29058730602264404, Test Accuracy: 90.69866180419922, spent_time: 91.0507357319196 min
+[1,0]<stdout>:Epoch 143, Loss: 0.19672106206417084, Accuracy: 92.57820892333984, Test Loss: 0.2908121347427368, Test Accuracy: 90.70531463623047, spent_time: 91.69308896859486 min
+[1,0]<stdout>:Epoch 144, Loss: 0.19618675112724304, Accuracy: 92.59867095947266, Test Loss: 0.29105857014656067, Test Accuracy: 90.71048736572266, spent_time: 92.33178493181865 min
+[1,0]<stdout>:Epoch 145, Loss: 0.19562554359436035, Accuracy: 92.62023162841797, Test Loss: 0.29116714000701904, Test Accuracy: 90.71682739257812, spent_time: 92.96593189239502 min
+[1,0]<stdout>:Epoch 146, Loss: 0.1950618028640747, Accuracy: 92.64142608642578, Test Loss: 0.291343629360199, Test Accuracy: 90.72185516357422, spent_time: 93.6006725470225 min
+[1,0]<stdout>:Epoch 147, Loss: 0.19449403882026672, Accuracy: 92.66302490234375, Test Loss: 0.2917501926422119, Test Accuracy: 90.72196960449219, spent_time: 94.23837714592615 min
+[1,0]<stdout>:Epoch 148, Loss: 0.19395819306373596, Accuracy: 92.6836166381836, Test Loss: 0.2917751669883728, Test Accuracy: 90.7266845703125, spent_time: 94.87397564649582 min
+[1,0]<stdout>:Epoch 149, Loss: 0.19341547787189484, Accuracy: 92.70405578613281, Test Loss: 0.29204484820365906, Test Accuracy: 90.73214721679688, spent_time: 95.50770009358725 min
+[1,0]<stdout>:Epoch 150, Loss: 0.19286537170410156, Accuracy: 92.72476196289062, Test Loss: 0.2920391857624054, Test Accuracy: 90.74019622802734, spent_time: 96.14477075338364 min
+[1,0]<stdout>:Epoch 151, Loss: 0.19231106340885162, Accuracy: 92.74593353271484, Test Loss: 0.2923070788383484, Test Accuracy: 90.74542236328125, spent_time: 96.78634703159332 min
+[1,0]<stdout>:Epoch 152, Loss: 0.19179080426692963, Accuracy: 92.76568603515625, Test Loss: 0.29225412011146545, Test Accuracy: 90.75322723388672, spent_time: 97.42304089466731 min
+[1,0]<stdout>:Epoch 153, Loss: 0.19125214219093323, Accuracy: 92.78560638427734, Test Loss: 0.2924705445766449, Test Accuracy: 90.75817108154297, spent_time: 98.05828167994817 min
+[1,0]<stdout>:Epoch 154, Loss: 0.19070734083652496, Accuracy: 92.80635070800781, Test Loss: 0.2925894558429718, Test Accuracy: 90.76370239257812, spent_time: 98.69724685351053 min
+[1,0]<stdout>:Epoch 155, Loss: 0.19020497798919678, Accuracy: 92.82494354248047, Test Loss: 0.2925933301448822, Test Accuracy: 90.76942443847656, spent_time: 99.33334570328394 min
+[1,0]<stdout>:Epoch 156, Loss: 0.1896737664937973, Accuracy: 92.84516143798828, Test Loss: 0.29274728894233704, Test Accuracy: 90.77531433105469, spent_time: 99.97005861997604 min
+[1,0]<stdout>:Epoch 157, Loss: 0.18916746973991394, Accuracy: 92.86429595947266, Test Loss: 0.2928694188594818, Test Accuracy: 90.78114318847656, spent_time: 100.60510340134303 min
+[1,0]<stdout>:Epoch 158, Loss: 0.1886502355337143, Accuracy: 92.8839111328125, Test Loss: 0.2929254174232483, Test Accuracy: 90.78752899169922, spent_time: 101.23877667983373 min
+[1,0]<stdout>:Epoch 159, Loss: 0.18814519047737122, Accuracy: 92.90290832519531, Test Loss: 0.2932054400444031, Test Accuracy: 90.79056549072266, spent_time: 101.87564178705216 min
+[1,0]<stdout>:Epoch 160, Loss: 0.18763451278209686, Accuracy: 92.92262268066406, Test Loss: 0.2933492064476013, Test Accuracy: 90.7954330444336, spent_time: 102.50760389566422 min
+[1,0]<stdout>:Epoch 161, Loss: 0.187133327126503, Accuracy: 92.94149780273438, Test Loss: 0.2935888469219208, Test Accuracy: 90.79776763916016, spent_time: 103.14248119592666 min
+[1,0]<stdout>:Epoch 162, Loss: 0.18670690059661865, Accuracy: 92.95801544189453, Test Loss: 0.29370027780532837, Test Accuracy: 90.80271911621094, spent_time: 103.78327905337015 min
+[1,0]<stdout>:Epoch 163, Loss: 0.1862349808216095, Accuracy: 92.97602081298828, Test Loss: 0.2939462959766388, Test Accuracy: 90.80429077148438, spent_time: 104.41766726970673 min
+[1,0]<stdout>:Epoch 164, Loss: 0.18574732542037964, Accuracy: 92.99445343017578, Test Loss: 0.2941116690635681, Test Accuracy: 90.80994415283203, spent_time: 105.05810629924139 min
+[1,0]<stdout>:Epoch 165, Loss: 0.1852295994758606, Accuracy: 93.01385498046875, Test Loss: 0.2944520115852356, Test Accuracy: 90.810791015625, spent_time: 105.69667541980743 min
+[1,0]<stdout>:Epoch 166, Loss: 0.18472091853618622, Accuracy: 93.03288269042969, Test Loss: 0.29464560747146606, Test Accuracy: 90.81192779541016, spent_time: 106.33893239895502 min
+[1,0]<stdout>:Epoch 167, Loss: 0.18426506221294403, Accuracy: 93.05021667480469, Test Loss: 0.2947918176651001, Test Accuracy: 90.81610107421875, spent_time: 106.97321390310923 min
+[1,0]<stdout>:Epoch 168, Loss: 0.18377679586410522, Accuracy: 93.06851959228516, Test Loss: 0.2948315441608429, Test Accuracy: 90.82029724121094, spent_time: 107.6079823811849 min
+[1,0]<stdout>:Epoch 169, Loss: 0.18329790234565735, Accuracy: 93.0872802734375, Test Loss: 0.2950282096862793, Test Accuracy: 90.82331848144531, spent_time: 108.24711561997732 min
+[1,0]<stdout>:Epoch 170, Loss: 0.18282589316368103, Accuracy: 93.1053466796875, Test Loss: 0.2953720986843109, Test Accuracy: 90.82876586914062, spent_time: 108.88340298334758 min
+[1,0]<stdout>:Epoch 171, Loss: 0.18236272037029266, Accuracy: 93.12309265136719, Test Loss: 0.2954997420310974, Test Accuracy: 90.83484649658203, spent_time: 109.51587386926015 min
+[1,0]<stdout>:Epoch 172, Loss: 0.18187004327774048, Accuracy: 93.14183807373047, Test Loss: 0.295633465051651, Test Accuracy: 90.8406982421875, spent_time: 110.14629716873169 min
+[1,0]<stdout>:Epoch 173, Loss: 0.18139265477657318, Accuracy: 93.16007232666016, Test Loss: 0.29586219787597656, Test Accuracy: 90.8455581665039, spent_time: 110.78712345759074 min
+[1,0]<stdout>:Epoch 174, Loss: 0.18094761669635773, Accuracy: 93.1768798828125, Test Loss: 0.2960141599178314, Test Accuracy: 90.8490219116211, spent_time: 111.41525823672613 min
+[1,0]<stdout>:Epoch 175, Loss: 0.18048202991485596, Accuracy: 93.1946792602539, Test Loss: 0.2964087724685669, Test Accuracy: 90.85051727294922, spent_time: 112.04995470841726 min
+[1,0]<stdout>:Epoch 176, Loss: 0.1800144612789154, Accuracy: 93.21207427978516, Test Loss: 0.29664793610572815, Test Accuracy: 90.85528564453125, spent_time: 112.68429531256358 min
+[1,0]<stdout>:Epoch 177, Loss: 0.17955611646175385, Accuracy: 93.22944641113281, Test Loss: 0.2970448136329651, Test Accuracy: 90.85965728759766, spent_time: 113.32288825114568 min
+[1,0]<stdout>:Epoch 178, Loss: 0.17912958562374115, Accuracy: 93.24602508544922, Test Loss: 0.2971770167350769, Test Accuracy: 90.86157989501953, spent_time: 113.95950380961101 min
+[1,0]<stdout>:Epoch 179, Loss: 0.17868880927562714, Accuracy: 93.26282501220703, Test Loss: 0.2974114418029785, Test Accuracy: 90.86686706542969, spent_time: 114.59567261536917 min
+[1,0]<stdout>:Epoch 180, Loss: 0.1782522350549698, Accuracy: 93.2796630859375, Test Loss: 0.2976061701774597, Test Accuracy: 90.86849212646484, spent_time: 115.22950012683869 min
+[1,0]<stdout>:Epoch 181, Loss: 0.17780660092830658, Accuracy: 93.2968521118164, Test Loss: 0.2976638674736023, Test Accuracy: 90.87220764160156, spent_time: 115.86451720794042 min
+[1,0]<stdout>:Epoch 182, Loss: 0.17733512818813324, Accuracy: 93.31481170654297, Test Loss: 0.2978578507900238, Test Accuracy: 90.87775421142578, spent_time: 116.50291842222214 min
+[1,0]<stdout>:Epoch 183, Loss: 0.17689216136932373, Accuracy: 93.33197021484375, Test Loss: 0.29797065258026123, Test Accuracy: 90.88136291503906, spent_time: 117.1358981013298 min
+[1,0]<stdout>:Epoch 184, Loss: 0.1764586865901947, Accuracy: 93.34876251220703, Test Loss: 0.29805752635002136, Test Accuracy: 90.88864135742188, spent_time: 117.77648564179738 min
+[1,0]<stdout>:Epoch 185, Loss: 0.17602598667144775, Accuracy: 93.36526489257812, Test Loss: 0.29828155040740967, Test Accuracy: 90.89141082763672, spent_time: 118.40967987775802 min
+[1,0]<stdout>:Epoch 186, Loss: 0.17560552060604095, Accuracy: 93.38138580322266, Test Loss: 0.29854080080986023, Test Accuracy: 90.89683532714844, spent_time: 119.04937316179276 min
+[1,0]<stdout>:Epoch 187, Loss: 0.17515216767787933, Accuracy: 93.398681640625, Test Loss: 0.2985803186893463, Test Accuracy: 90.90229797363281, spent_time: 119.69643841584524 min
+[1,0]<stdout>:Epoch 188, Loss: 0.1747218817472458, Accuracy: 93.41527557373047, Test Loss: 0.2988132834434509, Test Accuracy: 90.9062271118164, spent_time: 120.33533757130304 min
+[1,0]<stdout>:Epoch 189, Loss: 0.1742924600839615, Accuracy: 93.43133544921875, Test Loss: 0.29900872707366943, Test Accuracy: 90.90878295898438, spent_time: 120.97038257916769 min
+[1,0]<stdout>:Epoch 190, Loss: 0.17388302087783813, Accuracy: 93.44678497314453, Test Loss: 0.2992973327636719, Test Accuracy: 90.91194152832031, spent_time: 121.60939439932505 min
+[1,0]<stdout>:Epoch 191, Loss: 0.1734730750322342, Accuracy: 93.46246337890625, Test Loss: 0.2994753420352936, Test Accuracy: 90.91722869873047, spent_time: 122.24620040655137 min
+[1,0]<stdout>:Epoch 192, Loss: 0.1730555295944214, Accuracy: 93.47858428955078, Test Loss: 0.2996658980846405, Test Accuracy: 90.92203521728516, spent_time: 122.88015130758285 min
+[1,0]<stdout>:Epoch 193, Loss: 0.1726342737674713, Accuracy: 93.4946517944336, Test Loss: 0.299982488155365, Test Accuracy: 90.92538452148438, spent_time: 123.51862341562907 min
+[1,0]<stdout>:Epoch 194, Loss: 0.172246053814888, Accuracy: 93.50970458984375, Test Loss: 0.3002360463142395, Test Accuracy: 90.92922973632812, spent_time: 124.15295102198918 min
+[1,0]<stdout>:Epoch 195, Loss: 0.1718432456254959, Accuracy: 93.52545166015625, Test Loss: 0.3005462884902954, Test Accuracy: 90.93276977539062, spent_time: 124.79017177820205 min
+[1,0]<stdout>:Epoch 196, Loss: 0.17141380906105042, Accuracy: 93.54129791259766, Test Loss: 0.3007892668247223, Test Accuracy: 90.93571472167969, spent_time: 125.4301747918129 min
+[1,0]<stdout>:Epoch 197, Loss: 0.17101514339447021, Accuracy: 93.55683898925781, Test Loss: 0.3010059595108032, Test Accuracy: 90.93827819824219, spent_time: 126.06408348083497 min
+[1,0]<stdout>:Epoch 198, Loss: 0.17065660655498505, Accuracy: 93.57096862792969, Test Loss: 0.3010767698287964, Test Accuracy: 90.94176483154297, spent_time: 126.69287161827087 min
+[1,0]<stdout>:Epoch 199, Loss: 0.17023012042045593, Accuracy: 93.58721923828125, Test Loss: 0.30144351720809937, Test Accuracy: 90.9446792602539, spent_time: 127.32758612632752 min
+[1,0]<stdout>:Epoch 200, Loss: 0.16984814405441284, Accuracy: 93.60227966308594, Test Loss: 0.3015655279159546, Test Accuracy: 90.94830322265625, spent_time: 127.96494865814844 min
+[1,0]<stdout>:Epoch 201, Loss: 0.16947326064109802, Accuracy: 93.61679077148438, Test Loss: 0.3017914891242981, Test Accuracy: 90.95223236083984, spent_time: 128.60106992324194 min
+[1,0]<stdout>:Epoch 202, Loss: 0.1690664142370224, Accuracy: 93.63226318359375, Test Loss: 0.30200162529945374, Test Accuracy: 90.95629119873047, spent_time: 129.2346007903417 min
+[1,0]<stdout>:Epoch 203, Loss: 0.16864460706710815, Accuracy: 93.648193359375, Test Loss: 0.3024616241455078, Test Accuracy: 90.96038818359375, spent_time: 129.8741912762324 min
+[1,0]<stdout>:Epoch 204, Loss: 0.1683148443698883, Accuracy: 93.66087341308594, Test Loss: 0.3025384843349457, Test Accuracy: 90.96441650390625, spent_time: 130.5110385576884 min
+[1,0]<stdout>:Epoch 205, Loss: 0.16790424287319183, Accuracy: 93.67632293701172, Test Loss: 0.3027767539024353, Test Accuracy: 90.9695053100586, spent_time: 131.1421945810318 min
+[1,0]<stdout>:Epoch 206, Loss: 0.1675032526254654, Accuracy: 93.69178009033203, Test Loss: 0.303054541349411, Test Accuracy: 90.97329711914062, spent_time: 131.77342733542125 min
+[1,0]<stdout>:Epoch 207, Loss: 0.16710571944713593, Accuracy: 93.70670318603516, Test Loss: 0.30324819684028625, Test Accuracy: 90.97749328613281, spent_time: 132.40714225371678 min
+[1,0]<stdout>:Epoch 208, Loss: 0.16670267283916473, Accuracy: 93.72164916992188, Test Loss: 0.30353206396102905, Test Accuracy: 90.98023986816406, spent_time: 133.04941327174504 min
+[1,0]<stdout>:Epoch 209, Loss: 0.16632971167564392, Accuracy: 93.73600769042969, Test Loss: 0.3037669360637665, Test Accuracy: 90.98377990722656, spent_time: 133.6859006245931 min
+[1,0]<stdout>:Epoch 210, Loss: 0.16594137251377106, Accuracy: 93.75062561035156, Test Loss: 0.3040168881416321, Test Accuracy: 90.98751831054688, spent_time: 134.3255354563395 min
+[1,0]<stdout>:Epoch 211, Loss: 0.1655549705028534, Accuracy: 93.7656021118164, Test Loss: 0.3042806088924408, Test Accuracy: 90.98924255371094, spent_time: 134.95827844142914 min
+[1,0]<stdout>:Epoch 212, Loss: 0.16517214477062225, Accuracy: 93.78004455566406, Test Loss: 0.30457043647766113, Test Accuracy: 90.99193572998047, spent_time: 135.59284926652907 min
+[1,0]<stdout>:Epoch 213, Loss: 0.16479966044425964, Accuracy: 93.79448699951172, Test Loss: 0.30474600195884705, Test Accuracy: 90.99666595458984, spent_time: 136.226719335715 min
+[1,0]<stdout>:Epoch 214, Loss: 0.16442513465881348, Accuracy: 93.80878448486328, Test Loss: 0.3049788177013397, Test Accuracy: 91.00078582763672, spent_time: 136.87014562686284 min
+[1,0]<stdout>:Epoch 215, Loss: 0.16404606401920319, Accuracy: 93.82316589355469, Test Loss: 0.3052995502948761, Test Accuracy: 91.0042724609375, spent_time: 137.50506377617518 min
+[1,0]<stdout>:Epoch 216, Loss: 0.16367357969284058, Accuracy: 93.83723449707031, Test Loss: 0.30562445521354675, Test Accuracy: 91.00337982177734, spent_time: 138.13533790508907 min
+[1,0]<stdout>:Epoch 217, Loss: 0.163285031914711, Accuracy: 93.85191345214844, Test Loss: 0.30574217438697815, Test Accuracy: 91.0064926147461, spent_time: 138.77219864924749 min
+[1,0]<stdout>:Epoch 218, Loss: 0.16291247308254242, Accuracy: 93.86656188964844, Test Loss: 0.3059242367744446, Test Accuracy: 91.01082611083984, spent_time: 139.40369557936987 min
+[1,0]<stdout>:Epoch 219, Loss: 0.16256071627140045, Accuracy: 93.87984466552734, Test Loss: 0.30614760518074036, Test Accuracy: 91.01543426513672, spent_time: 140.03795946439107 min
+[1,0]<stdout>:Epoch 220, Loss: 0.16219310462474823, Accuracy: 93.89398956298828, Test Loss: 0.30625247955322266, Test Accuracy: 91.01822662353516, spent_time: 140.67422699133556 min
+[1,0]<stdout>:Epoch 221, Loss: 0.16182926297187805, Accuracy: 93.90811157226562, Test Loss: 0.30649855732917786, Test Accuracy: 91.02122497558594, spent_time: 141.3101330002149 min
+[1,0]<stdout>:Epoch 222, Loss: 0.16148018836975098, Accuracy: 93.9222183227539, Test Loss: 0.30660852789878845, Test Accuracy: 91.02481842041016, spent_time: 141.94751436710357 min
+[1,0]<stdout>:Epoch 223, Loss: 0.16110846400260925, Accuracy: 93.93638610839844, Test Loss: 0.30702823400497437, Test Accuracy: 91.02869415283203, spent_time: 142.58706611394882 min
+[1,0]<stdout>:Epoch 224, Loss: 0.16077347099781036, Accuracy: 93.94927978515625, Test Loss: 0.30721837282180786, Test Accuracy: 91.0328598022461, spent_time: 143.22358471155167 min
+[1,0]<stdout>:Epoch 225, Loss: 0.16044196486473083, Accuracy: 93.96189880371094, Test Loss: 0.3075857162475586, Test Accuracy: 91.03475952148438, spent_time: 143.8536224603653 min
+[1,0]<stdout>:Epoch 226, Loss: 0.16008183360099792, Accuracy: 93.97565460205078, Test Loss: 0.30780547857284546, Test Accuracy: 91.03809356689453, spent_time: 144.48674449920654 min
+[1,0]<stdout>:Epoch 227, Loss: 0.15974514186382294, Accuracy: 93.98876190185547, Test Loss: 0.3080620765686035, Test Accuracy: 91.04043579101562, spent_time: 145.12834988037744 min
+[1,0]<stdout>:Epoch 228, Loss: 0.15942946076393127, Accuracy: 94.0005874633789, Test Loss: 0.30833831429481506, Test Accuracy: 91.0436782836914, spent_time: 145.77413227160773 min
+[1,0]<stdout>:Epoch 229, Loss: 0.15906809270381927, Accuracy: 94.01448822021484, Test Loss: 0.30856817960739136, Test Accuracy: 91.04711151123047, spent_time: 146.40722333987554 min
+[1,0]<stdout>:Epoch 230, Loss: 0.1587134152650833, Accuracy: 94.02816009521484, Test Loss: 0.30876219272613525, Test Accuracy: 91.04952239990234, spent_time: 147.0447882493337 min
+[1,0]<stdout>:Epoch 231, Loss: 0.15838494896888733, Accuracy: 94.04077911376953, Test Loss: 0.3089940547943115, Test Accuracy: 91.05372619628906, spent_time: 147.6806392590205 min
+[1,0]<stdout>:Epoch 232, Loss: 0.1580372154712677, Accuracy: 94.05398559570312, Test Loss: 0.309377521276474, Test Accuracy: 91.05690002441406, spent_time: 148.31534583171208 min
+[1,0]<stdout>:Epoch 233, Loss: 0.1576831191778183, Accuracy: 94.06752014160156, Test Loss: 0.3095616102218628, Test Accuracy: 91.06077575683594, spent_time: 148.9415192246437 min
+[1,0]<stdout>:Epoch 234, Loss: 0.1573314070701599, Accuracy: 94.0816650390625, Test Loss: 0.30983245372772217, Test Accuracy: 91.06277465820312, spent_time: 149.58149577776592 min
+[1,0]<stdout>:Epoch 235, Loss: 0.1570201814174652, Accuracy: 94.09391021728516, Test Loss: 0.3100930154323578, Test Accuracy: 91.06689453125, spent_time: 150.22541862328848 min
+[1,0]<stdout>:Epoch 236, Loss: 0.15672534704208374, Accuracy: 94.1058349609375, Test Loss: 0.31026214361190796, Test Accuracy: 91.06978607177734, spent_time: 150.86113475958507 min
+[1,0]<stdout>:Epoch 237, Loss: 0.15641112625598907, Accuracy: 94.11766052246094, Test Loss: 0.3104636073112488, Test Accuracy: 91.07106018066406, spent_time: 151.49060044288635 min
+[1,0]<stdout>:Epoch 238, Loss: 0.15606793761253357, Accuracy: 94.13088989257812, Test Loss: 0.3108128011226654, Test Accuracy: 91.07302856445312, spent_time: 152.12527981201808 min
+[1,0]<stdout>:Epoch 239, Loss: 0.15573318302631378, Accuracy: 94.14382934570312, Test Loss: 0.31103888154029846, Test Accuracy: 91.07569122314453, spent_time: 152.76096848249435 min
+[1,0]<stdout>:Epoch 240, Loss: 0.15541337430477142, Accuracy: 94.15644073486328, Test Loss: 0.3112608790397644, Test Accuracy: 91.07908630371094, spent_time: 153.40524176359176 min
+[1,0]<stdout>:Epoch 241, Loss: 0.15507660806179047, Accuracy: 94.16954040527344, Test Loss: 0.31146878004074097, Test Accuracy: 91.08203887939453, spent_time: 154.036962834994 min
+[1,0]<stdout>:Epoch 242, Loss: 0.15478312969207764, Accuracy: 94.18130493164062, Test Loss: 0.31167611479759216, Test Accuracy: 91.08479309082031, spent_time: 154.6727860212326 min
+[1,0]<stdout>:Epoch 243, Loss: 0.1544656902551651, Accuracy: 94.19326782226562, Test Loss: 0.31177470088005066, Test Accuracy: 91.08819580078125, spent_time: 155.3119205077489 min
+[1,0]<stdout>:Epoch 244, Loss: 0.15411688387393951, Accuracy: 94.20655059814453, Test Loss: 0.31212982535362244, Test Accuracy: 91.09172058105469, spent_time: 155.94547969897587 min
+[1,0]<stdout>:Epoch 245, Loss: 0.1538134068250656, Accuracy: 94.2181396484375, Test Loss: 0.3124123811721802, Test Accuracy: 91.09379577636719, spent_time: 156.58187427520753 min
+[1,0]<stdout>:Epoch 246, Loss: 0.15350210666656494, Accuracy: 94.23021697998047, Test Loss: 0.3127066493034363, Test Accuracy: 91.09683227539062, spent_time: 157.22915156682333 min
+[1,0]<stdout>:Epoch 247, Loss: 0.15317177772521973, Accuracy: 94.2428207397461, Test Loss: 0.31299668550491333, Test Accuracy: 91.09696197509766, spent_time: 157.86286662022272 min
+[1,0]<stdout>:Epoch 248, Loss: 0.15285904705524445, Accuracy: 94.25511932373047, Test Loss: 0.3133811354637146, Test Accuracy: 91.09782409667969, spent_time: 158.50476814905804 min
+[1,0]<stdout>:Epoch 249, Loss: 0.15255944430828094, Accuracy: 94.26677703857422, Test Loss: 0.31344959139823914, Test Accuracy: 91.10064697265625, spent_time: 159.1528271317482 min
+[1,0]<stdout>:Epoch 250, Loss: 0.1522619128227234, Accuracy: 94.27862548828125, Test Loss: 0.31387007236480713, Test Accuracy: 91.10199737548828, spent_time: 159.78850179115932 min
+[1,0]<stdout>:Epoch 251, Loss: 0.15204688906669617, Accuracy: 94.28728485107422, Test Loss: 0.31404587626457214, Test Accuracy: 91.10298919677734, spent_time: 160.4218317667643 min
+[1,0]<stdout>:Epoch 252, Loss: 0.15173564851284027, Accuracy: 94.29951477050781, Test Loss: 0.3144151270389557, Test Accuracy: 91.10365295410156, spent_time: 161.05826717615128 min
+[1,0]<stdout>:Epoch 253, Loss: 0.1514246016740799, Accuracy: 94.31169128417969, Test Loss: 0.31464892625808716, Test Accuracy: 91.10651397705078, spent_time: 161.69660246769587 min
+[1,0]<stdout>:Epoch 254, Loss: 0.15112602710723877, Accuracy: 94.32315826416016, Test Loss: 0.3147670328617096, Test Accuracy: 91.11003875732422, spent_time: 162.33435667753218 min
+[1,0]<stdout>:Epoch 255, Loss: 0.15081575512886047, Accuracy: 94.33522033691406, Test Loss: 0.3150096833705902, Test Accuracy: 91.11262512207031, spent_time: 162.97153101762134 min
+[1,0]<stdout>:Epoch 256, Loss: 0.15051977336406708, Accuracy: 94.34658813476562, Test Loss: 0.3151841461658478, Test Accuracy: 91.11550903320312, spent_time: 163.60284076134363 min
+[1,0]<stdout>:Epoch 257, Loss: 0.15022040903568268, Accuracy: 94.35836791992188, Test Loss: 0.3153066337108612, Test Accuracy: 91.11859893798828, spent_time: 164.23746794462204 min
+[1,0]<stdout>:Epoch 258, Loss: 0.14992541074752808, Accuracy: 94.37013244628906, Test Loss: 0.3156510591506958, Test Accuracy: 91.11868286132812, spent_time: 164.87952748537063 min
+[1,0]<stdout>:Epoch 259, Loss: 0.14969699084758759, Accuracy: 94.37972259521484, Test Loss: 0.31581124663352966, Test Accuracy: 91.11927032470703, spent_time: 165.5180390159289 min
+[1,0]<stdout>:Epoch 260, Loss: 0.14943493902683258, Accuracy: 94.38995361328125, Test Loss: 0.31597164273262024, Test Accuracy: 91.12035369873047, spent_time: 166.15596907933553 min
+[1,0]<stdout>:Epoch 261, Loss: 0.1491660475730896, Accuracy: 94.40055847167969, Test Loss: 0.3161044418811798, Test Accuracy: 91.1209945678711, spent_time: 166.79654843012491 min
+[1,0]<stdout>:Epoch 262, Loss: 0.1488644778728485, Accuracy: 94.41199493408203, Test Loss: 0.31623584032058716, Test Accuracy: 91.12446594238281, spent_time: 167.43166082700094 min
+[1,0]<stdout>:Epoch 263, Loss: 0.1485481560230255, Accuracy: 94.42428588867188, Test Loss: 0.3166780173778534, Test Accuracy: 91.12528228759766, spent_time: 168.06763980786005 min
+[1,0]<stdout>:Epoch 264, Loss: 0.14830639958381653, Accuracy: 94.43388366699219, Test Loss: 0.3168386220932007, Test Accuracy: 91.12784576416016, spent_time: 168.70237987836202 min
+[1,0]<stdout>:Epoch 265, Loss: 0.14801743626594543, Accuracy: 94.44489288330078, Test Loss: 0.3171111047267914, Test Accuracy: 91.13131713867188, spent_time: 169.33895345926285 min
+[1,0]<stdout>:Epoch 266, Loss: 0.14772339165210724, Accuracy: 94.4561538696289, Test Loss: 0.3173518180847168, Test Accuracy: 91.1317367553711, spent_time: 169.97637648582457 min
+[1,0]<stdout>:Epoch 267, Loss: 0.1474551409482956, Accuracy: 94.466796875, Test Loss: 0.3174804747104645, Test Accuracy: 91.13299560546875, spent_time: 170.61206934054692 min
+[1,0]<stdout>:Epoch 268, Loss: 0.14716307818889618, Accuracy: 94.47799682617188, Test Loss: 0.31778237223625183, Test Accuracy: 91.13313293457031, spent_time: 171.24757507244746 min
+[1,0]<stdout>:Epoch 269, Loss: 0.1468786597251892, Accuracy: 94.48912048339844, Test Loss: 0.3178916871547699, Test Accuracy: 91.13632202148438, spent_time: 171.89400426149368 min
+[1,0]<stdout>:Epoch 270, Loss: 0.14664238691329956, Accuracy: 94.49830627441406, Test Loss: 0.3180958330631256, Test Accuracy: 91.13899993896484, spent_time: 172.5274031996727 min
+[1,0]<stdout>:Epoch 271, Loss: 0.14634734392166138, Accuracy: 94.50968170166016, Test Loss: 0.3183727264404297, Test Accuracy: 91.14081573486328, spent_time: 173.17208707729975 min
+[1,0]<stdout>:Epoch 272, Loss: 0.1460561901330948, Accuracy: 94.52099609375, Test Loss: 0.31859421730041504, Test Accuracy: 91.14378356933594, spent_time: 173.80983031988143 min
+[1,0]<stdout>:Epoch 273, Loss: 0.1457807868719101, Accuracy: 94.53173828125, Test Loss: 0.31877195835113525, Test Accuracy: 91.14494323730469, spent_time: 174.44010272423426 min
+[1,0]<stdout>:Epoch 274, Loss: 0.14559593796730042, Accuracy: 94.53943634033203, Test Loss: 0.3189031481742859, Test Accuracy: 91.14689636230469, spent_time: 175.080970064799 min
+[1,0]<stdout>:Epoch 275, Loss: 0.145327627658844, Accuracy: 94.5496597290039, Test Loss: 0.3191058933734894, Test Accuracy: 91.14894104003906, spent_time: 175.71765580972036 min
+[1,0]<stdout>:Epoch 276, Loss: 0.14503806829452515, Accuracy: 94.56036376953125, Test Loss: 0.31941771507263184, Test Accuracy: 91.15072631835938, spent_time: 176.3556016087532 min
+[1,0]<stdout>:Epoch 277, Loss: 0.1447344571352005, Accuracy: 94.57209014892578, Test Loss: 0.3197088837623596, Test Accuracy: 91.15296173095703, spent_time: 176.99547464052836 min
+[1,0]<stdout>:Epoch 278, Loss: 0.14443887770175934, Accuracy: 94.58360290527344, Test Loss: 0.3200037181377411, Test Accuracy: 91.15528869628906, spent_time: 177.63310403426487 min
+[1,0]<stdout>:Epoch 279, Loss: 0.14416441321372986, Accuracy: 94.59415435791016, Test Loss: 0.3202541470527649, Test Accuracy: 91.15724182128906, spent_time: 178.32654784123102 min
+[1,0]<stdout>:Epoch 280, Loss: 0.14388716220855713, Accuracy: 94.6048583984375, Test Loss: 0.3203659653663635, Test Accuracy: 91.15967559814453, spent_time: 178.96769530773162 min
+[1,0]<stdout>:Epoch 281, Loss: 0.14365647733211517, Accuracy: 94.61390686035156, Test Loss: 0.320568710565567, Test Accuracy: 91.16142272949219, spent_time: 179.60440082947414 min
+[1,0]<stdout>:Epoch 282, Loss: 0.1433904469013214, Accuracy: 94.62406921386719, Test Loss: 0.3207603096961975, Test Accuracy: 91.16291046142578, spent_time: 180.23781498273215 min
+[1,0]<stdout>:Epoch 283, Loss: 0.14312298595905304, Accuracy: 94.6343002319336, Test Loss: 0.32098081707954407, Test Accuracy: 91.16522979736328, spent_time: 180.8758211493492 min
+[1,0]<stdout>:Epoch 284, Loss: 0.14285528659820557, Accuracy: 94.64459991455078, Test Loss: 0.32120388746261597, Test Accuracy: 91.1645736694336, spent_time: 181.51019406716028 min
+[1,0]<stdout>:Epoch 285, Loss: 0.14260230958461761, Accuracy: 94.65424346923828, Test Loss: 0.321460098028183, Test Accuracy: 91.16638946533203, spent_time: 182.14791266918184 min
+[1,0]<stdout>:Epoch 286, Loss: 0.14234426617622375, Accuracy: 94.66434478759766, Test Loss: 0.3215773403644562, Test Accuracy: 91.16779327392578, spent_time: 182.7839158097903 min
+[1,0]<stdout>:Epoch 287, Loss: 0.14206981658935547, Accuracy: 94.67501831054688, Test Loss: 0.3219342827796936, Test Accuracy: 91.16915893554688, spent_time: 183.42642574310304 min
+[1,0]<stdout>:Epoch 288, Loss: 0.1418209969997406, Accuracy: 94.68494415283203, Test Loss: 0.3221122920513153, Test Accuracy: 91.17166900634766, spent_time: 184.06573046445845 min
+[1,0]<stdout>:Epoch 289, Loss: 0.14154848456382751, Accuracy: 94.69554138183594, Test Loss: 0.32236248254776, Test Accuracy: 91.1738052368164, spent_time: 184.7016289671262 min
+[1,0]<stdout>:Epoch 290, Loss: 0.14131489396095276, Accuracy: 94.70484924316406, Test Loss: 0.32272952795028687, Test Accuracy: 91.17579650878906, spent_time: 185.33131982882819 min
+[1,0]<stdout>:Epoch 291, Loss: 0.14106717705726624, Accuracy: 94.71456146240234, Test Loss: 0.3228984475135803, Test Accuracy: 91.17662811279297, spent_time: 185.9786008556684 min
+[1,0]<stdout>:Epoch 292, Loss: 0.14083653688430786, Accuracy: 94.72366333007812, Test Loss: 0.3232135474681854, Test Accuracy: 91.17860412597656, spent_time: 186.61501451333365 min
+[1,0]<stdout>:Epoch 293, Loss: 0.14083470404148102, Accuracy: 94.72435760498047, Test Loss: 0.3232581317424774, Test Accuracy: 91.18016815185547, spent_time: 187.25896466175715 min
+[1,0]<stdout>:Epoch 294, Loss: 0.14060255885124207, Accuracy: 94.73322296142578, Test Loss: 0.3234398066997528, Test Accuracy: 91.18302154541016, spent_time: 187.89742594559988 min
+[1,0]<stdout>:Epoch 295, Loss: 0.14035135507583618, Accuracy: 94.74297332763672, Test Loss: 0.32352203130722046, Test Accuracy: 91.18460845947266, spent_time: 188.53180376688638 min
+[1,0]<stdout>:Epoch 296, Loss: 0.14008454978466034, Accuracy: 94.75312805175781, Test Loss: 0.3236989974975586, Test Accuracy: 91.1868896484375, spent_time: 189.16587700049084 min
+[1,0]<stdout>:Epoch 297, Loss: 0.1398247927427292, Accuracy: 94.7632827758789, Test Loss: 0.3238851726055145, Test Accuracy: 91.18915557861328, spent_time: 189.80424174467723 min
+[1,0]<stdout>:Epoch 298, Loss: 0.13957180082798004, Accuracy: 94.77306365966797, Test Loss: 0.32403871417045593, Test Accuracy: 91.19010162353516, spent_time: 190.43455480337144 min
+[1,0]<stdout>:Epoch 299, Loss: 0.13932062685489655, Accuracy: 94.78279113769531, Test Loss: 0.32421940565109253, Test Accuracy: 91.19100189208984, spent_time: 191.0685107032458 min
+[1,0]<stdout>:Epoch 300, Loss: 0.13910357654094696, Accuracy: 94.79116821289062, Test Loss: 0.32433587312698364, Test Accuracy: 91.19319915771484, spent_time: 191.69835055271784 min
+[1,0]<stdout>:Epoch 301, Loss: 0.1389044225215912, Accuracy: 94.79938507080078, Test Loss: 0.3245038688182831, Test Accuracy: 91.194580078125, spent_time: 192.3342184662819 min
+[1,0]<stdout>:Epoch 302, Loss: 0.13870322704315186, Accuracy: 94.80775451660156, Test Loss: 0.32486480474472046, Test Accuracy: 91.19569396972656, spent_time: 192.9713638106982 min
+[1,0]<stdout>:Epoch 303, Loss: 0.138608917593956, Accuracy: 94.81277465820312, Test Loss: 0.3250097334384918, Test Accuracy: 91.19742584228516, spent_time: 193.61420886119205 min
+[1,0]<stdout>:Epoch 304, Loss: 0.1383741945028305, Accuracy: 94.8219985961914, Test Loss: 0.3252173066139221, Test Accuracy: 91.1991195678711, spent_time: 194.25859601100285 min
+[1,0]<stdout>:Epoch 305, Loss: 0.13812194764614105, Accuracy: 94.83150482177734, Test Loss: 0.32545262575149536, Test Accuracy: 91.20124816894531, spent_time: 194.89369081258775 min
+[1,0]<stdout>:Epoch 306, Loss: 0.13786737620830536, Accuracy: 94.8412094116211, Test Loss: 0.3257621228694916, Test Accuracy: 91.20346069335938, spent_time: 195.53286929130553 min
+[1,0]<stdout>:Epoch 307, Loss: 0.13761115074157715, Accuracy: 94.8513412475586, Test Loss: 0.3260922133922577, Test Accuracy: 91.20541381835938, spent_time: 196.1682123263677 min
+[1,0]<stdout>:Epoch 308, Loss: 0.1373671442270279, Accuracy: 94.86088562011719, Test Loss: 0.3264458179473877, Test Accuracy: 91.20746612548828, spent_time: 196.80297405322392 min
+[1,0]<stdout>:Epoch 309, Loss: 0.13711807131767273, Accuracy: 94.87052917480469, Test Loss: 0.32680845260620117, Test Accuracy: 91.2089614868164, spent_time: 197.42985552549362 min
+[1,0]<stdout>:Epoch 310, Loss: 0.13688568770885468, Accuracy: 94.87957000732422, Test Loss: 0.3269824683666229, Test Accuracy: 91.2119369506836, spent_time: 198.06332594950993 min
+[1,0]<stdout>:Epoch 311, Loss: 0.13662736117839813, Accuracy: 94.8896255493164, Test Loss: 0.3272416591644287, Test Accuracy: 91.21295928955078, spent_time: 198.69456549485525 min
+[1,0]<stdout>:Epoch 312, Loss: 0.13639867305755615, Accuracy: 94.89856719970703, Test Loss: 0.3274349868297577, Test Accuracy: 91.21531677246094, spent_time: 199.34154986143113 min
+[1,0]<stdout>:Epoch 313, Loss: 0.1361641138792038, Accuracy: 94.90779876708984, Test Loss: 0.3275798559188843, Test Accuracy: 91.21527099609375, spent_time: 199.9724829037984 min
+[1,0]<stdout>:Epoch 314, Loss: 0.13592487573623657, Accuracy: 94.9170150756836, Test Loss: 0.3279150724411011, Test Accuracy: 91.21617889404297, spent_time: 200.60354152123134 min
+[1,0]<stdout>:Epoch 315, Loss: 0.13568958640098572, Accuracy: 94.9262466430664, Test Loss: 0.3281383216381073, Test Accuracy: 91.2187271118164, spent_time: 201.23373942772548 min
+[1,0]<stdout>:Epoch 316, Loss: 0.1354387104511261, Accuracy: 94.9360580444336, Test Loss: 0.32834139466285706, Test Accuracy: 91.22016143798828, spent_time: 201.87264436880747 min
+[1,0]<stdout>:Epoch 317, Loss: 0.13519835472106934, Accuracy: 94.94529724121094, Test Loss: 0.3285068869590759, Test Accuracy: 91.22091674804688, spent_time: 202.50475515921912 min
+[1,0]<stdout>:Epoch 318, Loss: 0.13495925068855286, Accuracy: 94.95431518554688, Test Loss: 0.3287608027458191, Test Accuracy: 91.22157287597656, spent_time: 203.14696351687112 min
+[1,0]<stdout>:Epoch 319, Loss: 0.13472382724285126, Accuracy: 94.96339416503906, Test Loss: 0.32888415455818176, Test Accuracy: 91.2235107421875, spent_time: 203.78227144479752 min
+[1,0]<stdout>:Epoch 320, Loss: 0.1345032900571823, Accuracy: 94.9721908569336, Test Loss: 0.3290601968765259, Test Accuracy: 91.22547149658203, spent_time: 204.4186090071996 min
+[1,0]<stdout>:Epoch 321, Loss: 0.13427455723285675, Accuracy: 94.9809799194336, Test Loss: 0.3291992247104645, Test Accuracy: 91.2268295288086, spent_time: 205.0534342487653 min
+[1,0]<stdout>:Epoch 322, Loss: 0.13406024873256683, Accuracy: 94.9894027709961, Test Loss: 0.32949092984199524, Test Accuracy: 91.22782897949219, spent_time: 205.68960514465968 min
+[1,0]<stdout>:Epoch 323, Loss: 0.13384617865085602, Accuracy: 94.99755096435547, Test Loss: 0.3297165632247925, Test Accuracy: 91.22953796386719, spent_time: 206.3230770190557 min
+[1,0]<stdout>:Epoch 324, Loss: 0.13365624845027924, Accuracy: 95.0050048828125, Test Loss: 0.3299591839313507, Test Accuracy: 91.23043060302734, spent_time: 206.95634792248407 min
+[1,0]<stdout>:Epoch 325, Loss: 0.13343387842178345, Accuracy: 95.0135269165039, Test Loss: 0.3301321268081665, Test Accuracy: 91.23302459716797, spent_time: 207.58666545947392 min
+[1,0]<stdout>:Epoch 326, Loss: 0.13330307602882385, Accuracy: 95.01889038085938, Test Loss: 0.3303142786026001, Test Accuracy: 91.23441314697266, spent_time: 208.21711421012878 min
+[1,0]<stdout>:Epoch 327, Loss: 0.13308390974998474, Accuracy: 95.02735900878906, Test Loss: 0.3306032717227936, Test Accuracy: 91.23626708984375, spent_time: 208.85614307324093 min
+[1,0]<stdout>:Epoch 328, Loss: 0.13286051154136658, Accuracy: 95.03599548339844, Test Loss: 0.3308018445968628, Test Accuracy: 91.23692321777344, spent_time: 209.49055327971777 min
+[1,0]<stdout>:Epoch 329, Loss: 0.1326247602701187, Accuracy: 95.0450668334961, Test Loss: 0.33109965920448303, Test Accuracy: 91.23789978027344, spent_time: 210.12161410649617 min
+[1,0]<stdout>:Epoch 330, Loss: 0.13239966332912445, Accuracy: 95.0536880493164, Test Loss: 0.3313128650188446, Test Accuracy: 91.23882293701172, spent_time: 210.75382984081904 min
+[1,0]<stdout>:Epoch 331, Loss: 0.132247194647789, Accuracy: 95.06022644042969, Test Loss: 0.3314651846885681, Test Accuracy: 91.24111938476562, spent_time: 211.39601581891378 min
+[1,0]<stdout>:Epoch 332, Loss: 0.13203813135623932, Accuracy: 95.06864929199219, Test Loss: 0.3316407799720764, Test Accuracy: 91.24243927001953, spent_time: 212.02214449246725 min
+[1,0]<stdout>:Epoch 333, Loss: 0.1318148821592331, Accuracy: 95.07743072509766, Test Loss: 0.33183446526527405, Test Accuracy: 91.24420928955078, spent_time: 212.66192882061006 min
+[1,0]<stdout>:Epoch 334, Loss: 0.13159191608428955, Accuracy: 95.08598327636719, Test Loss: 0.3320859670639038, Test Accuracy: 91.24580383300781, spent_time: 213.29817562898 min
+[1,0]<stdout>:Epoch 335, Loss: 0.1313677728176117, Accuracy: 95.09486389160156, Test Loss: 0.33235496282577515, Test Accuracy: 91.2458267211914, spent_time: 213.93278086185455 min
+[1,0]<stdout>:Epoch 336, Loss: 0.13114354014396667, Accuracy: 95.10352325439453, Test Loss: 0.3326447010040283, Test Accuracy: 91.2459487915039, spent_time: 214.56753924687703 min
+[1,0]<stdout>:Epoch 337, Loss: 0.13092735409736633, Accuracy: 95.1116714477539, Test Loss: 0.33290550112724304, Test Accuracy: 91.24702453613281, spent_time: 215.19956127405166 min
+[1,0]<stdout>:Epoch 338, Loss: 0.1307220757007599, Accuracy: 95.11973571777344, Test Loss: 0.3330574631690979, Test Accuracy: 91.24849700927734, spent_time: 215.8375766436259 min
+[1,0]<stdout>:Epoch 339, Loss: 0.1305045783519745, Accuracy: 95.12823486328125, Test Loss: 0.3334071636199951, Test Accuracy: 91.2491455078125, spent_time: 216.4808571100235 min
+[1,0]<stdout>:Epoch 340, Loss: 0.13033856451511383, Accuracy: 95.13519287109375, Test Loss: 0.33342787623405457, Test Accuracy: 91.24714660644531, spent_time: 217.1226480682691 min
+[1,0]<stdout>:Epoch 341, Loss: 0.13016220927238464, Accuracy: 95.14225769042969, Test Loss: 0.3336203098297119, Test Accuracy: 91.24882507324219, spent_time: 217.757517405351 min
+[1,0]<stdout>:Epoch 342, Loss: 0.12994477152824402, Accuracy: 95.15081787109375, Test Loss: 0.33382314443588257, Test Accuracy: 91.24964904785156, spent_time: 218.38723009824753 min
+[1,0]<stdout>:Epoch 343, Loss: 0.1297268569469452, Accuracy: 95.15919494628906, Test Loss: 0.3340311050415039, Test Accuracy: 91.25104522705078, spent_time: 219.0230573574702 min
+[1,0]<stdout>:Epoch 344, Loss: 0.12951916456222534, Accuracy: 95.16724395751953, Test Loss: 0.334236741065979, Test Accuracy: 91.25238037109375, spent_time: 219.66027437448503 min
+[1,0]<stdout>:Epoch 345, Loss: 0.1293507069349289, Accuracy: 95.17427062988281, Test Loss: 0.3344462215900421, Test Accuracy: 91.25365447998047, spent_time: 220.2950840393702 min
+[1,0]<stdout>:Epoch 346, Loss: 0.12914472818374634, Accuracy: 95.18209075927734, Test Loss: 0.3346394896507263, Test Accuracy: 91.25528717041016, spent_time: 220.93013691107433 min
+[1,0]<stdout>:Epoch 347, Loss: 0.12893694639205933, Accuracy: 95.1900863647461, Test Loss: 0.33473095297813416, Test Accuracy: 91.25498962402344, spent_time: 221.56847099860508 min
+[1,0]<stdout>:Epoch 348, Loss: 0.12872716784477234, Accuracy: 95.19825744628906, Test Loss: 0.33489662408828735, Test Accuracy: 91.25543212890625, spent_time: 222.20818281968434 min
+[1,0]<stdout>:Epoch 349, Loss: 0.1285153329372406, Accuracy: 95.20643615722656, Test Loss: 0.3352496922016144, Test Accuracy: 91.2569351196289, spent_time: 222.83940627972285 min
+[1,0]<stdout>:Epoch 350, Loss: 0.1282975673675537, Accuracy: 95.21481323242188, Test Loss: 0.3354821503162384, Test Accuracy: 91.25849151611328, spent_time: 223.48459170262018 min
+[1,0]<stdout>:Epoch 351, Loss: 0.12808465957641602, Accuracy: 95.22314453125, Test Loss: 0.335787832736969, Test Accuracy: 91.26065826416016, spent_time: 224.12076859871547 min
+[1,0]<stdout>:Epoch 352, Loss: 0.12787921726703644, Accuracy: 95.23114013671875, Test Loss: 0.33593183755874634, Test Accuracy: 91.26173400878906, spent_time: 224.75677794218063 min
+[1,0]<stdout>:Epoch 353, Loss: 0.12766936421394348, Accuracy: 95.23926544189453, Test Loss: 0.3361973464488983, Test Accuracy: 91.26288604736328, spent_time: 225.39069455067317 min
+[1,0]<stdout>:Epoch 354, Loss: 0.12748496234416962, Accuracy: 95.24662780761719, Test Loss: 0.33644604682922363, Test Accuracy: 91.26380920410156, spent_time: 226.0248545964559 min
+[1,0]<stdout>:Epoch 355, Loss: 0.12734708189964294, Accuracy: 95.25340270996094, Test Loss: 0.33653128147125244, Test Accuracy: 91.25670623779297, spent_time: 226.66704956293106 min
+[1,0]<stdout>:Epoch 356, Loss: 0.1273532211780548, Accuracy: 95.2540054321289, Test Loss: 0.3367353081703186, Test Accuracy: 91.2570571899414, spent_time: 227.29842222134272 min
+[1,0]<stdout>:Epoch 357, Loss: 0.12719275057315826, Accuracy: 95.26002502441406, Test Loss: 0.3368214964866638, Test Accuracy: 91.25836944580078, spent_time: 227.94041863679885 min
+[1,0]<stdout>:Epoch 358, Loss: 0.12699969112873077, Accuracy: 95.26763916015625, Test Loss: 0.3369888961315155, Test Accuracy: 91.25991821289062, spent_time: 228.57658368349075 min
+[1,0]<stdout>:Epoch 359, Loss: 0.1267894059419632, Accuracy: 95.2756576538086, Test Loss: 0.3371521532535553, Test Accuracy: 91.26167297363281, spent_time: 229.21225356260936 min
+[1,0]<stdout>:Epoch 360, Loss: 0.12658579647541046, Accuracy: 95.28368377685547, Test Loss: 0.33731308579444885, Test Accuracy: 91.26280212402344, spent_time: 229.84989628394445 min
+[1,0]<stdout>:Epoch 361, Loss: 0.12637123465538025, Accuracy: 95.29210662841797, Test Loss: 0.33762428164482117, Test Accuracy: 91.26432800292969, spent_time: 230.47748196522394 min
+[1,0]<stdout>:Epoch 362, Loss: 0.12615495920181274, Accuracy: 95.3006362915039, Test Loss: 0.3377982974052429, Test Accuracy: 91.26475524902344, spent_time: 231.113851026694 min
+[1,0]<stdout>:Epoch 363, Loss: 0.12594375014305115, Accuracy: 95.30874633789062, Test Loss: 0.33811041712760925, Test Accuracy: 91.26638793945312, spent_time: 231.74963861703873 min
+[1,0]<stdout>:Epoch 364, Loss: 0.1257307529449463, Accuracy: 95.31704711914062, Test Loss: 0.33841249346733093, Test Accuracy: 91.26750946044922, spent_time: 232.3778165459633 min
+[1,0]<stdout>:Epoch 365, Loss: 0.1255432814359665, Accuracy: 95.32463836669922, Test Loss: 0.3386227488517761, Test Accuracy: 91.26847076416016, spent_time: 233.01483970880508 min
+[1,0]<stdout>:Epoch 366, Loss: 0.12533822655677795, Accuracy: 95.33245849609375, Test Loss: 0.3388088047504425, Test Accuracy: 91.26947784423828, spent_time: 233.6510709285736 min
+[1,0]<stdout>:Epoch 367, Loss: 0.1251419186592102, Accuracy: 95.34014892578125, Test Loss: 0.3390294015407562, Test Accuracy: 91.27057647705078, spent_time: 234.28718391656875 min
+[1,0]<stdout>:Epoch 368, Loss: 0.12498382478952408, Accuracy: 95.34662628173828, Test Loss: 0.3392152190208435, Test Accuracy: 91.27133178710938, spent_time: 234.93628554741542 min
+[1,0]<stdout>:Epoch 369, Loss: 0.12479128688573837, Accuracy: 95.35409545898438, Test Loss: 0.33939507603645325, Test Accuracy: 91.27308654785156, spent_time: 235.57724038362502 min
+[1,0]<stdout>:Epoch 370, Loss: 0.12476842105388641, Accuracy: 95.35659790039062, Test Loss: 0.3394506573677063, Test Accuracy: 91.27305603027344, spent_time: 236.2218297123909 min
+[1,0]<stdout>:Epoch 371, Loss: 0.12460072338581085, Accuracy: 95.36314392089844, Test Loss: 0.339667409658432, Test Accuracy: 91.27416229248047, spent_time: 236.8611453016599 min
+[1,0]<stdout>:Epoch 372, Loss: 0.12447397410869598, Accuracy: 95.36824035644531, Test Loss: 0.3397005498409271, Test Accuracy: 91.27433013916016, spent_time: 237.50133508841196 min
+[1,0]<stdout>:Epoch 373, Loss: 0.12428822368383408, Accuracy: 95.37545776367188, Test Loss: 0.33986374735832214, Test Accuracy: 91.27591705322266, spent_time: 238.13281902869542 min
+[1,0]<stdout>:Epoch 374, Loss: 0.12408814579248428, Accuracy: 95.38324737548828, Test Loss: 0.33997318148612976, Test Accuracy: 91.27772521972656, spent_time: 238.76452463467916 min
+[1,0]<stdout>:Epoch 375, Loss: 0.12394847720861435, Accuracy: 95.38877868652344, Test Loss: 0.34014418721199036, Test Accuracy: 91.27912139892578, spent_time: 239.40243291457494 min
+[1,0]<stdout>:Epoch 376, Loss: 0.12375546991825104, Accuracy: 95.39635467529297, Test Loss: 0.34038716554641724, Test Accuracy: 91.27999877929688, spent_time: 240.03670452833177 min
+[1,0]<stdout>:Epoch 377, Loss: 0.12358244508504868, Accuracy: 95.4031982421875, Test Loss: 0.3403913378715515, Test Accuracy: 91.2793960571289, spent_time: 240.67272276878356 min
+[1,0]<stdout>:Epoch 378, Loss: 0.12340057641267776, Accuracy: 95.41035461425781, Test Loss: 0.34060102701187134, Test Accuracy: 91.28031921386719, spent_time: 241.31215827862422 min
+[1,0]<stdout>:Epoch 379, Loss: 0.12320134043693542, Accuracy: 95.4180908203125, Test Loss: 0.34082552790641785, Test Accuracy: 91.28136444091797, spent_time: 241.9490194360415 min
+[1,0]<stdout>:Epoch 380, Loss: 0.1230015903711319, Accuracy: 95.42584228515625, Test Loss: 0.3410835266113281, Test Accuracy: 91.28255462646484, spent_time: 242.585620089372 min
+[1,0]<stdout>:Epoch 381, Loss: 0.12281845510005951, Accuracy: 95.43272399902344, Test Loss: 0.34132760763168335, Test Accuracy: 91.28264617919922, spent_time: 243.22028652826944 min
+[1,0]<stdout>:Epoch 382, Loss: 0.1226271465420723, Accuracy: 95.44019317626953, Test Loss: 0.3415076732635498, Test Accuracy: 91.28374481201172, spent_time: 243.8551828622818 min
+[1,0]<stdout>:Epoch 383, Loss: 0.1224554106593132, Accuracy: 95.44679260253906, Test Loss: 0.3416125476360321, Test Accuracy: 91.28440856933594, spent_time: 244.48981966972352 min
+[1,0]<stdout>:Epoch 384, Loss: 0.12227462232112885, Accuracy: 95.4537353515625, Test Loss: 0.341923326253891, Test Accuracy: 91.28495025634766, spent_time: 245.1240829149882 min
+[1,0]<stdout>:Epoch 385, Loss: 0.12209923565387726, Accuracy: 95.46052551269531, Test Loss: 0.3422316312789917, Test Accuracy: 91.28550720214844, spent_time: 245.76170526742936 min
+[1,0]<stdout>:Epoch 386, Loss: 0.1219201311469078, Accuracy: 95.46733856201172, Test Loss: 0.3423635959625244, Test Accuracy: 91.28588104248047, spent_time: 246.3925920844078 min
+[1,0]<stdout>:Epoch 387, Loss: 0.12174520641565323, Accuracy: 95.47429656982422, Test Loss: 0.34251073002815247, Test Accuracy: 91.28640747070312, spent_time: 247.02389632463456 min
+[1,0]<stdout>:Epoch 388, Loss: 0.12157521396875381, Accuracy: 95.48085021972656, Test Loss: 0.34267470240592957, Test Accuracy: 91.28726959228516, spent_time: 247.65707898934681 min
+[1,0]<stdout>:Epoch 389, Loss: 0.12141039222478867, Accuracy: 95.48735809326172, Test Loss: 0.34302788972854614, Test Accuracy: 91.28421783447266, spent_time: 248.29833387931188 min
+[1,0]<stdout>:Epoch 390, Loss: 0.12126041203737259, Accuracy: 95.49357604980469, Test Loss: 0.3433190882205963, Test Accuracy: 91.28451538085938, spent_time: 248.936631945769 min
+[1,0]<stdout>:Epoch 391, Loss: 0.12109660357236862, Accuracy: 95.50020599365234, Test Loss: 0.34349963068962097, Test Accuracy: 91.28534698486328, spent_time: 249.56815801858903 min
+[1,0]<stdout>:Epoch 392, Loss: 0.12091656774282455, Accuracy: 95.5072250366211, Test Loss: 0.3438124358654022, Test Accuracy: 91.28607177734375, spent_time: 250.20222944021225 min
+[1,0]<stdout>:Epoch 393, Loss: 0.12075623869895935, Accuracy: 95.51371002197266, Test Loss: 0.34395116567611694, Test Accuracy: 91.28699493408203, spent_time: 250.84224459727605 min
+[1,0]<stdout>:Epoch 394, Loss: 0.12065141648054123, Accuracy: 95.51832580566406, Test Loss: 0.3442435562610626, Test Accuracy: 91.286376953125, spent_time: 251.46891503334047 min
+[1,0]<stdout>:Epoch 395, Loss: 0.12048055976629257, Accuracy: 95.52496337890625, Test Loss: 0.34447234869003296, Test Accuracy: 91.28739166259766, spent_time: 252.08626999855042 min
+[1,0]<stdout>:Epoch 396, Loss: 0.12030414491891861, Accuracy: 95.5318832397461, Test Loss: 0.34468451142311096, Test Accuracy: 91.28797912597656, spent_time: 252.69800393184025 min
+[1,0]<stdout>:Epoch 397, Loss: 0.12012843042612076, Accuracy: 95.53878021240234, Test Loss: 0.3448778986930847, Test Accuracy: 91.28950500488281, spent_time: 253.2998102068901 min
+[1,0]<stdout>:Epoch 398, Loss: 0.11995091289281845, Accuracy: 95.54574584960938, Test Loss: 0.34506070613861084, Test Accuracy: 91.28897857666016, spent_time: 253.88298469781876 min
+[1,0]<stdout>:Epoch 399, Loss: 0.1198027953505516, Accuracy: 95.55176544189453, Test Loss: 0.34526771306991577, Test Accuracy: 91.28909301757812, spent_time: 254.46929533481597 min
+[1,0]<stdout>:Epoch 400, Loss: 0.11964523792266846, Accuracy: 95.55789947509766, Test Loss: 0.3454022705554962, Test Accuracy: 91.29017639160156, spent_time: 255.061895720164 min
+[1,0]<stderr>:/Fashion-MNIST-By-ResNet_MLU/mlu_horovod_train.py:193: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+[1,0]<stderr>:  plt.show()
